@@ -1,2 +1,0 @@
-import{c as e}from"./chunk-BQD3vKMW.js";import{u as s}from"./chunk-D1MymWvQ.js";import{s as u}from"./chunk-BGI1RGB7.js";const a=async()=>{const r=await fetch("/api/bluebird/authors");if(!r.ok)throw new Error(`HTTP error! status: ${r.status}`);const t=await r.json();return u(t.map(o=>o.data))};function m(){const r=e.c(1);let t;return r[0]===Symbol.for("react.memo_cache_sentinel")?(t={queryKey:["authors"],queryFn:a},r[0]=t):t=r[0],s(t)}export{m as u};
-//# sourceMappingURL=chunk-DMIt35_I.js.map
