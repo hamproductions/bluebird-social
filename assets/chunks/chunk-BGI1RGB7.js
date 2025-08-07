@@ -1,2 +1,0 @@
-const t=["polka_lion","My_Mai_Eld","hanabistarmine","G_Akky304250","MiracleGoldSP","Noricco_U","Yukuri_talk","Rollie_twinkle","LittlegreenCom","ShaunTheBunny"],i=o=>o.sort((n,s)=>{const r=t.indexOf(n.userName),e=t.indexOf(s.userName);return r===-1&&e===-1?0:r===-1?1:e===-1?-1:r-e});export{i as s};
-//# sourceMappingURL=chunk-BGI1RGB7.js.map
