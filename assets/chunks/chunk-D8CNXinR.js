@@ -1,0 +1,2 @@
+import{E as c,F as x,r as i,s as g,b as y}from"./chunk-sXAk_VZS.js";const l={transform(t){const{direction:s,align:r,justify:e,wrap:n,basis:o,grow:a,shrink:f,...p}=t;return{display:"flex",flexDirection:s,alignItems:r,justifyContent:e,flexWrap:n,flexBasis:o,flexGrow:a,flexShrink:f,...p}}},d=(t={})=>{const s=c(l,t);return l.transform(s,x)},u=i.forwardRef(function(s,r){const[e,n]=g(s,["align","justify","direction","wrap","basis","grow","shrink"]),o=d(e),a={ref:r,...o,...n};return i.createElement(y.div,a)});export{u as F};
+//# sourceMappingURL=chunk-D8CNXinR.js.map
