@@ -1,0 +1,2 @@
+import{e as m,j as i}from"./chunk-qogV3JfF.js";import{T as n}from"./chunk-DhMYjjoB.js";import{B as p}from"./chunk-CCCdkOPC.js";function l(r){const t=m.c(4),{group:o}=r;let e;t[0]!==o.tweets?(e=o.tweets.map(u),t[0]=o.tweets,t[1]=e):e=t[1];let s;return t[2]!==e?(s=i.jsx(p,{borderBottom:"1px solid border.default",children:e}),t[2]=e,t[3]=s):s=t[3],s}function u(r,t,o){return i.jsx(n,{tweet:r.data,hideBottom:t!==o.length-1,hideInfo:t!==0,showLine:!0},r.id)}export{l as G};
+//# sourceMappingURL=chunk-CTQygrUT.js.map
