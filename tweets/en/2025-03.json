@@ -1,0 +1,745 @@
+[
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-03-14 12:56:00",
+    "group_end_time": "2025-03-14 12:57:00",
+    "tweets": [
+      {
+        "id": "1900531357174128835",
+        "text": "What should I do?\n\nI failed high school...\n\nWhat should I do, what should I do, what should I do",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-14T12:56:00.000Z",
+        "conversationId": "1900531357174128835",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1900531357174128835",
+          "createdAt": "Fri Mar 14 12:56:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1900531357174128835",
+          "text": "What should I do?\n\nI failed high school...\n\nWhat should I do, what should I do, what should I do",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1900531357174128835",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1900531357174128835",
+            "lang": "en",
+            "text": "What should I do?\n\nI failed high school...\n\nWhat should I do, what should I do, what should I do",
+            "createdAt": "2025-08-09T17:42:00.994Z",
+            "updatedAt": "2025-08-13T11:27:47.397Z"
+          }
+        ]
+      },
+      {
+        "id": "1900531608777904251",
+        "text": "Does this mean...\n\nI have nowhere to go from spring?\n\nNo way...\n\nOh no...\n\nThis isn't a dream, is it?",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-14T12:57:00.000Z",
+        "conversationId": "1900531608777904251",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1900531608777904251",
+          "createdAt": "Fri Mar 14 12:57:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1900531608777904251",
+          "text": "Does this mean...\n\nI have nowhere to go from spring?\n\nNo way...\n\nOh no...\n\nThis isn't a dream, is it?",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1900531608777904251",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1900531608777904251",
+            "lang": "en",
+            "text": "Does this mean...\n\nI have nowhere to go from spring?\n\nNo way...\n\nOh no...\n\nThis isn't a dream, is it?",
+            "createdAt": "2025-08-09T17:42:00.994Z",
+            "updatedAt": "2025-08-13T11:27:47.407Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-03-17 08:49:00",
+    "group_end_time": "2025-03-17 08:51:00",
+    "tweets": [
+      {
+        "id": "1901556360820490620",
+        "text": "My eyes hurt because I've been crying so much\n\nBut if I cover myself with a blanket and curl up in bed all day, I feel a little bit better\n\nI think\n\nProbably\n\nAnyway, I might be hungry",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-17T08:49:00.000Z",
+        "conversationId": "1901556360820490620",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1901556360820490620",
+          "createdAt": "Mon Mar 17 08:49:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1901556360820490620",
+          "text": "My eyes hurt because I've been crying so much\n\nBut if I cover myself with a blanket and curl up in bed all day, I feel a little bit better\n\nI think\n\nProbably\n\nAnyway, I might be hungry",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1901556360820490620",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1901556360820490620",
+            "lang": "en",
+            "text": "My eyes hurt because I've been crying so much\n\nBut if I cover myself with a blanket and curl up in bed all day, I feel a little bit better\n\nI think\n\nProbably\n\nAnyway, I might be hungry",
+            "createdAt": "2025-08-09T17:55:45.097Z",
+            "updatedAt": "2025-08-13T11:27:52.447Z"
+          }
+        ]
+      },
+      {
+        "id": "1901556612843942092",
+        "text": "So\n\nI'll definitely be okay starting tomorrow",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-17T08:50:00.000Z",
+        "conversationId": "1901556612843942092",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1901556612843942092",
+          "createdAt": "Mon Mar 17 08:50:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1901556612843942092",
+          "text": "So\n\nI'll definitely be okay starting tomorrow",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1901556612843942092",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1901556612843942092",
+            "lang": "en",
+            "text": "So\n\nI'll definitely be okay starting tomorrow",
+            "createdAt": "2025-08-09T17:55:45.097Z",
+            "updatedAt": "2025-08-13T11:27:52.449Z"
+          }
+        ]
+      },
+      {
+        "id": "1901556864099221975",
+        "text": "Right?\n\nPlease, someone tell me that's true",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-17T08:51:00.000Z",
+        "conversationId": "1901556864099221975",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1901556864099221975",
+          "createdAt": "Mon Mar 17 08:51:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1901556864099221975",
+          "text": "Right?\n\nPlease, someone tell me that's true",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1901556864099221975",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1901556864099221975",
+            "lang": "en",
+            "text": "Right?\n\nPlease, someone tell me that's true",
+            "createdAt": "2025-08-09T17:55:45.097Z",
+            "updatedAt": "2025-08-13T11:27:52.451Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-03-19 07:14:00",
+    "group_end_time": "2025-03-19 07:15:00",
+    "tweets": [
+      {
+        "id": "1902257229366952099",
+        "text": "I went to talk to the school on my grandma's advice.\n\nThe teacher said there are schools I can still enter!\n\nWhat should I do, what should I do!!\n\nReally!?\n\nI'm so happy! ☀☀✨✨✨!!!",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-19T07:14:00.000Z",
+        "conversationId": "1902257229366952099",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1902257229366952099",
+          "createdAt": "Wed Mar 19 07:14:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1902257229366952099",
+          "text": "I went to talk to the school on my grandma's advice.\n\nThe teacher said there are schools I can still enter!\n\nWhat should I do, what should I do!!\n\nReally!?\n\nI'm so happy! ☀☀✨✨✨!!!",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1902257229366952099",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1902257229366952099",
+            "lang": "en",
+            "text": "I went to talk to the school on my grandma's advice.\n\nThe teacher said there are schools I can still enter!\n\nWhat should I do, what should I do!!\n\nReally!?\n\nI'm so happy! ☀☀✨✨✨!!!",
+            "createdAt": "2025-08-09T17:55:48.544Z",
+            "updatedAt": "2025-08-13T11:28:00.020Z"
+          }
+        ]
+      },
+      {
+        "id": "1902257480954212379",
+        "text": "Ah\n\nIf this is true!\n\nGod, no matter how bad I am at math ⛩⛩⛩\n\nI promise I'll try harder from now on without running away 🙏🙏🙏✨✨!!",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-19T07:15:00.000Z",
+        "conversationId": "1902257480954212379",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1902257480954212379",
+          "createdAt": "Wed Mar 19 07:15:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1902257480954212379",
+          "text": "Ah\n\nIf this is true!\n\nGod, no matter how bad I am at math ⛩⛩⛩\n\nI promise I'll try harder from now on without running away 🙏🙏🙏✨✨!!",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1902257480954212379",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1902257480954212379",
+            "lang": "en",
+            "text": "Ah\n\nIf this is true!\n\nGod, no matter how bad I am at math ⛩⛩⛩\n\nI promise I'll try harder from now on without running away 🙏🙏🙏✨✨!!",
+            "createdAt": "2025-08-09T17:55:48.544Z",
+            "updatedAt": "2025-08-13T11:28:00.022Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-03-21 03:07:00",
+    "group_end_time": "2025-03-21 03:08:00",
+    "tweets": [
+      {
+        "id": "1902919845714518083",
+        "text": "I looked at the brochure for the school polka is planning to attend\n\nIt seems like a really new school 💦\n\nAn online high school??\n\nWhat's that?",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-21T03:07:00.000Z",
+        "conversationId": "1902919845714518083",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1902919845714518083",
+          "createdAt": "Fri Mar 21 03:07:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1902919845714518083",
+          "text": "I looked at the brochure for the school polka is planning to attend\n\nIt seems like a really new school 💦\n\nAn online high school??\n\nWhat's that?",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1902919845714518083",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1902919845714518083",
+            "lang": "en",
+            "text": "I looked at the brochure for the school polka is planning to attend\n\nIt seems like a really new school 💦\n\nAn online high school??\n\nWhat's that?",
+            "createdAt": "2025-08-09T17:55:53.424Z",
+            "updatedAt": "2025-08-13T11:28:07.093Z"
+          }
+        ]
+      },
+      {
+        "id": "1902920097355743253",
+        "text": "Hmmmm\nI still don't really understand it though\n\nI don't have to go to school every day, the uniform is free, and I can watch classes anytime via streaming\n\nIs this for real?\n\nAnd what's more! The math curriculum is super small!!\n\nIs this heaven? ☀✨",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-21T03:08:00.000Z",
+        "conversationId": "1902920097355743253",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1902920097355743253",
+          "createdAt": "Fri Mar 21 03:08:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1902920097355743253",
+          "text": "Hmmmm\nI still don't really understand it though\n\nI don't have to go to school every day, the uniform is free, and I can watch classes anytime via streaming\n\nIs this for real?\n\nAnd what's more! The math curriculum is super small!!\n\nIs this heaven? ☀✨",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1902920097355743253",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1902920097355743253",
+            "lang": "en",
+            "text": "Hmmmm\nI still don't really understand it though\n\nI don't have to go to school every day, the uniform is free, and I can watch classes anytime via streaming\n\nIs this for real?\n\nAnd what's more! The math curriculum is super small!!\n\nIs this heaven? ☀✨",
+            "createdAt": "2025-08-09T17:55:53.424Z",
+            "updatedAt": "2025-08-13T11:28:07.094Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-03-24 12:01:00",
+    "group_end_time": "2025-03-24 12:01:00",
+    "tweets": [
+      {
+        "id": "1904141395071246379",
+        "text": "Tomorrow is the graduation ceremony\n\nI'd forgotten because of the shock of the high school entrance exams, but\n\nMy junior high school life had its share of fun things, but there were also many things that weighed on me\nIt was like having heavy bangs constantly in front of my eyes\n\nHonestly, it was a battle with math!\n\nI wish someday there would be a world without numbers ✨✨",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-24T12:01:00.000Z",
+        "conversationId": "1904141395071246379",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1904141395071246379",
+          "createdAt": "Mon Mar 24 12:01:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1904141395071246379",
+          "text": "Tomorrow is the graduation ceremony\n\nI'd forgotten because of the shock of the high school entrance exams, but\n\nMy junior high school life had its share of fun things, but there were also many things that weighed on me\nIt was like having heavy bangs constantly in front of my eyes\n\nHonestly, it was a battle with math!\n\nI wish someday there would be a world without numbers ✨✨",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1904141395071246379",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1904141395071246379",
+            "lang": "en",
+            "text": "Tomorrow is the graduation ceremony\n\nI'd forgotten because of the shock of the high school entrance exams, but\n\nMy junior high school life had its share of fun things, but there were also many things that weighed on me\nIt was like having heavy bangs constantly in front of my eyes\n\nHonestly, it was a battle with math!\n\nI wish someday there would be a world without numbers ✨✨",
+            "createdAt": "2025-08-09T17:55:57.613Z",
+            "updatedAt": "2025-08-13T11:28:13.097Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-03-25 04:33:00",
+    "group_end_time": "2025-03-25 04:33:00",
+    "tweets": [
+      {
+        "id": "1904391039701369141",
+        "text": "Bye bye, middle school 🌸\n\nAnd\n\nHello ☀ new me 🌻✨\n\nStarting in April, I'll be a first-year student at L High School ✨✨\n\nHuh?\n\nCome to think of it, there's no such thing as saying 'first-year student,' is there?",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-25T04:33:00.000Z",
+        "conversationId": "1904391039701369141",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1904391039701369141",
+          "createdAt": "Tue Mar 25 04:33:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1904391039701369141",
+          "text": "Bye bye, middle school 🌸\n\nAnd\n\nHello ☀ new me 🌻✨\n\nStarting in April, I'll be a first-year student at L High School ✨✨\n\nHuh?\n\nCome to think of it, there's no such thing as saying 'first-year student,' is there?",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1904391039701369141",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1904391039701369141",
+            "lang": "en",
+            "text": "Bye bye, middle school 🌸\n\nAnd\n\nHello ☀ new me 🌻✨\n\nStarting in April, I'll be a first-year student at L High School ✨✨\n\nHuh?\n\nCome to think of it, there's no such thing as saying 'first-year student,' is there?",
+            "createdAt": "2025-08-09T17:56:02.422Z",
+            "updatedAt": "2025-08-13T11:28:18.183Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-03-26 02:55:00",
+    "group_end_time": "2025-03-26 02:59:00",
+    "tweets": [
+      {
+        "id": "1904728764782698512",
+        "text": "The new school uniforms arrived 🎁\n\nThat's what everyone was saying\n\nHuh?\n\nWait, I haven't heard anything about uniforms at all though 💦\n\nIs it okay like this?",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-26T02:55:00.000Z",
+        "conversationId": "1904728764782698512",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1904728764782698512",
+          "createdAt": "Wed Mar 26 02:55:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1904728764782698512",
+          "text": "The new school uniforms arrived 🎁\n\nThat's what everyone was saying\n\nHuh?\n\nWait, I haven't heard anything about uniforms at all though 💦\n\nIs it okay like this?",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1904728764782698512",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1904728764782698512",
+            "lang": "en",
+            "text": "The new school uniforms arrived 🎁\n\nThat's what everyone was saying\n\nHuh?\n\nWait, I haven't heard anything about uniforms at all though 💦\n\nIs it okay like this?",
+            "createdAt": "2025-08-09T17:56:06.529Z",
+            "updatedAt": "2025-08-13T11:28:28.367Z"
+          }
+        ]
+      },
+      {
+        "id": "1904729016784830655",
+        "text": "Huh huh huh?\n\nWow, maybe there are no uniforms ⛩\n\nAmazing, L High!",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-26T02:56:00.000Z",
+        "conversationId": "1904729016784830655",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1904729016784830655",
+          "createdAt": "Wed Mar 26 02:56:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1904729016784830655",
+          "text": "Huh huh huh?\n\nWow, maybe there are no uniforms ⛩\n\nAmazing, L High!",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1904729016784830655",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1904729016784830655",
+            "lang": "en",
+            "text": "Huh huh huh?\n\nWow, maybe there are no uniforms ⛩\n\nAmazing, L High!",
+            "createdAt": "2025-08-09T17:56:06.529Z",
+            "updatedAt": "2025-08-13T11:28:28.373Z"
+          }
+        ]
+      },
+      {
+        "id": "1904729771562394053",
+        "text": "I'm not good with clothes that constrict my body\n\nI used to get tight feelings from things like ties and would loosen them, so I often got told off by teachers\n\nThis might be kind of nice 💛",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-26T02:59:00.000Z",
+        "conversationId": "1904729771562394053",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1904729771562394053",
+          "createdAt": "Wed Mar 26 02:59:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1904729771562394053",
+          "text": "I'm not good with clothes that constrict my body\n\nI used to get tight feelings from things like ties and would loosen them, so I often got told off by teachers\n\nThis might be kind of nice 💛",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1904729771562394053",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1904729771562394053",
+            "lang": "en",
+            "text": "I'm not good with clothes that constrict my body\n\nI used to get tight feelings from things like ties and would loosen them, so I often got told off by teachers\n\nThis might be kind of nice 💛",
+            "createdAt": "2025-08-09T17:56:06.529Z",
+            "updatedAt": "2025-08-13T11:28:28.389Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-03-28 08:17:00",
+    "group_end_time": "2025-03-28 08:19:00",
+    "tweets": [
+      {
+        "id": "1905534574891074019",
+        "text": "Not having a uniform means\nI can go to school in casual clothes every day 👕\n\nI guess\n\nwearing jersey every day is a bit much 💦\n\nright?\n\nSo today I went shopping for new clothes ⛩",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-28T08:17:00.000Z",
+        "conversationId": "1905534574891074019",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1905534574891074019",
+          "createdAt": "Fri Mar 28 08:17:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1905534574891074019",
+          "text": "Not having a uniform means\nI can go to school in casual clothes every day 👕\n\nI guess\n\nwearing jersey every day is a bit much 💦\n\nright?\n\nSo today I went shopping for new clothes ⛩",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1905534574891074019",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1905534574891074019",
+            "lang": "en",
+            "text": "Not having a uniform means\nI can go to school in casual clothes every day 👕\n\nI guess\n\nwearing jersey every day is a bit much 💦\n\nright?\n\nSo today I went shopping for new clothes ⛩",
+            "createdAt": "2025-08-09T17:56:12.129Z",
+            "updatedAt": "2025-08-13T11:28:36.763Z"
+          }
+        ]
+      },
+      {
+        "id": "1905535077972328455",
+        "text": "I like clothes that are easy to move in, so I like both skirts and pants that are a bit short 💛\n\nOn my way home, I saw a cute kitty 🐱, so I danced with it for a bit ♪\nPolka can understand what cats are saying!\n\nI feel like it, ever since long ago",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-28T08:19:00.000Z",
+        "conversationId": "1905535077972328455",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1905535077972328455",
+          "createdAt": "Fri Mar 28 08:19:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1905535077972328455",
+          "text": "I like clothes that are easy to move in, so I like both skirts and pants that are a bit short 💛\n\nOn my way home, I saw a cute kitty 🐱, so I danced with it for a bit ♪\nPolka can understand what cats are saying!\n\nI feel like it, ever since long ago",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1905535077972328455",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1905535077972328455",
+            "lang": "en",
+            "text": "I like clothes that are easy to move in, so I like both skirts and pants that are a bit short 💛\n\nOn my way home, I saw a cute kitty 🐱, so I danced with it for a bit ♪\nPolka can understand what cats are saying!\n\nI feel like it, ever since long ago",
+            "createdAt": "2025-08-09T17:56:12.129Z",
+            "updatedAt": "2025-08-13T11:28:36.765Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-03-31 12:12:00",
+    "group_end_time": "2025-03-31 12:15:00",
+    "tweets": [
+      {
+        "id": "1906680877972594892",
+        "text": "Tomorrow is April 1st!\nPolka's new life is just around the corner~ 🌻♪\n\nThere was a time I thought I might not be able to become a high school student anymore,\nIt's like a blessing from heaven, or finding treasure!\n\nIt feels like everything is really sinking in.",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-31T12:12:00.000Z",
+        "conversationId": "1906680877972594892",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1906680877972594892",
+          "createdAt": "Mon Mar 31 12:12:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1906680877972594892",
+          "text": "Tomorrow is April 1st!\nPolka's new life is just around the corner~ 🌻♪\n\nThere was a time I thought I might not be able to become a high school student anymore,\nIt's like a blessing from heaven, or finding treasure!\n\nIt feels like everything is really sinking in.",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1906680877972594892",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1906680877972594892",
+            "lang": "en",
+            "text": "Tomorrow is April 1st!\nPolka's new life is just around the corner~ 🌻♪\n\nThere was a time I thought I might not be able to become a high school student anymore,\nIt's like a blessing from heaven, or finding treasure!\n\nIt feels like everything is really sinking in.",
+            "createdAt": "2025-08-09T17:56:17.020Z",
+            "updatedAt": "2025-08-13T11:28:48.769Z"
+          }
+        ]
+      },
+      {
+        "id": "1906681129782153270",
+        "text": "I'm happy but nervous, and though I'm nervous, it's an exciting feeling\nI feel a flutter deep in my stomach\n\nHmm, I'm getting carried away, aren't I 💛\n\nI can't help but dance~ ☀✨",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-31T12:13:00.000Z",
+        "conversationId": "1906681129782153270",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1906681129782153270",
+          "createdAt": "Mon Mar 31 12:13:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1906681129782153270",
+          "text": "I'm happy but nervous, and though I'm nervous, it's an exciting feeling\nI feel a flutter deep in my stomach\n\nHmm, I'm getting carried away, aren't I 💛\n\nI can't help but dance~ ☀✨",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1906681129782153270",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1906681129782153270",
+            "lang": "en",
+            "text": "I'm happy but nervous, and though I'm nervous, it's an exciting feeling\nI feel a flutter deep in my stomach\n\nHmm, I'm getting carried away, aren't I 💛\n\nI can't help but dance~ ☀✨",
+            "createdAt": "2025-08-09T17:56:17.020Z",
+            "updatedAt": "2025-08-13T11:28:48.771Z"
+          }
+        ]
+      },
+      {
+        "id": "1906681381201248361",
+        "text": "But it's okay to be like this today, right?\n\nGetting carried away and dancing\n\nCheering myself up 💪✨\n\nHere I go, diving into my new high school! 🌊",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-31T12:14:00.000Z",
+        "conversationId": "1906681381201248361",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1906681381201248361",
+          "createdAt": "Mon Mar 31 12:14:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1906681381201248361",
+          "text": "But it's okay to be like this today, right?\n\nGetting carried away and dancing\n\nCheering myself up 💪✨\n\nHere I go, diving into my new high school! 🌊",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1906681381201248361",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1906681381201248361",
+            "lang": "en",
+            "text": "But it's okay to be like this today, right?\n\nGetting carried away and dancing\n\nCheering myself up 💪✨\n\nHere I go, diving into my new high school! 🌊",
+            "createdAt": "2025-08-09T17:56:17.020Z",
+            "updatedAt": "2025-08-13T11:28:48.773Z"
+          }
+        ]
+      },
+      {
+        "id": "1906681633169711221",
+        "text": "I've properly reflected on leaving my poor math skills unattended and decided to try my best this time\n\nThat's right, I need to send a message to my mom and dad in Argentina\n\nAfter everything that's happened\n\nPolka is energetic and dancing today too 🌻✨♪",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-03-31T12:15:00.000Z",
+        "conversationId": "1906681633169711221",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1906681633169711221",
+          "createdAt": "Mon Mar 31 12:15:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1906681633169711221",
+          "text": "I've properly reflected on leaving my poor math skills unattended and decided to try my best this time\n\nThat's right, I need to send a message to my mom and dad in Argentina\n\nAfter everything that's happened\n\nPolka is energetic and dancing today too 🌻✨♪",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1906681633169711221",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1906681633169711221",
+            "lang": "en",
+            "text": "I've properly reflected on leaving my poor math skills unattended and decided to try my best this time\n\nThat's right, I need to send a message to my mom and dad in Argentina\n\nAfter everything that's happened\n\nPolka is energetic and dancing today too 🌻✨♪",
+            "createdAt": "2025-08-09T17:56:17.020Z",
+            "updatedAt": "2025-08-13T11:28:48.775Z"
+          }
+        ]
+      }
+    ]
+  }
+]
