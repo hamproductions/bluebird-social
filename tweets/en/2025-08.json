@@ -9124,5 +9124,364 @@
         ]
       }
     ]
+  },
+  {
+    "author_id": "1906566008904761345",
+    "group_start_time": "2025-08-27 13:08:01",
+    "group_end_time": "2025-08-27 13:30:02",
+    "tweets": [
+      {
+        "id": "1960690765493100666",
+        "text": "Summer heat exhaustion\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-08-27T13:08:01.000Z",
+        "conversationId": "1960690765493100666",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                4,
+                11
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960690765493100666",
+          "createdAt": "Wed Aug 27 13:08:01 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1960690765493100666",
+          "text": "Summer heat exhaustion\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1960690765493100666",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1960690765493100666",
+            "lang": "en",
+            "text": "Summer heat exhaustion\n#IkizuliveClub",
+            "createdAt": "2025-08-27T14:00:12.498Z",
+            "updatedAt": "2025-08-27T14:00:12.498Z"
+          }
+        ]
+      },
+      {
+        "id": "1960691519222095987",
+        "text": "I knew it\nTo be blunt\nRecently overloaded\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-08-27T13:11:00.000Z",
+        "conversationId": "1960691519222095987",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                22,
+                29
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960691519222095987",
+          "createdAt": "Wed Aug 27 13:11:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1960691519222095987",
+          "text": "I knew it\nTo be blunt\nRecently overloaded\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1960691519222095987",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1960691519222095987",
+            "lang": "en",
+            "text": "I knew it\nTo be blunt\nRecently overloaded\n#IkizuliveClub",
+            "createdAt": "2025-08-27T14:00:12.498Z",
+            "updatedAt": "2025-08-27T14:00:12.498Z"
+          }
+        ]
+      },
+      {
+        "id": "1960692276415619299",
+        "text": "In times like these, cool down\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-08-27T13:14:01.000Z",
+        "conversationId": "1960692276415619299",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                13,
+                20
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960692276415619299",
+          "createdAt": "Wed Aug 27 13:14:01 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1960692276415619299",
+          "text": "In times like these, cool down\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1960692276415619299",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1960692276415619299",
+            "lang": "en",
+            "text": "In times like these, cool down\n#IkizuliveClub",
+            "createdAt": "2025-08-27T14:00:12.498Z",
+            "updatedAt": "2025-08-27T14:00:12.498Z"
+          }
+        ]
+      },
+      {
+        "id": "1960693030198861870",
+        "text": "Life isn't just about being enthusiastic all the time, right?\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-08-27T13:17:00.000Z",
+        "conversationId": "1960693030198861870",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                20,
+                27
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960693030198861870",
+          "createdAt": "Wed Aug 27 13:17:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1960693030198861870",
+          "text": "Life isn't just about being enthusiastic all the time, right?\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1960693030198861870",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1960693030198861870",
+            "lang": "en",
+            "text": "Life isn't just about being enthusiastic all the time, right?\n#IkizuliveClub",
+            "createdAt": "2025-08-27T14:00:12.498Z",
+            "updatedAt": "2025-08-27T14:00:12.498Z"
+          }
+        ]
+      },
+      {
+        "id": "1960693788139033017",
+        "text": "Even the time spent hiding quietly in my futon like this\nIs properly my life\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-08-27T13:20:01.000Z",
+        "conversationId": "1960693788139033017",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                32,
+                39
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960693788139033017",
+          "createdAt": "Wed Aug 27 13:20:01 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1960693788139033017",
+          "text": "Even the time spent hiding quietly in my futon like this\nIs properly my life\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1960693788139033017",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1960693788139033017",
+            "lang": "en",
+            "text": "Even the time spent hiding quietly in my futon like this\nIs properly my life\n#IkizuliveClub",
+            "createdAt": "2025-08-27T14:00:12.498Z",
+            "updatedAt": "2025-08-27T14:00:12.498Z"
+          }
+        ]
+      },
+      {
+        "id": "1960694538638647389",
+        "text": "Whether awake or asleep\nWhether thinking or not thinking\nWhether happy or sad\nTime just passes the same way\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-08-27T13:23:00.000Z",
+        "conversationId": "1960694538638647389",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                50,
+                57
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960694538638647389",
+          "createdAt": "Wed Aug 27 13:23:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1960694538638647389",
+          "text": "Whether awake or asleep\nWhether thinking or not thinking\nWhether happy or sad\nTime just passes the same way\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1960694538638647389",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1960694538638647389",
+            "lang": "en",
+            "text": "Whether awake or asleep\nWhether thinking or not thinking\nWhether happy or sad\nTime just passes the same way\n#IkizuliveClub",
+            "createdAt": "2025-08-27T14:00:12.498Z",
+            "updatedAt": "2025-08-27T14:00:12.498Z"
+          }
+        ]
+      },
+      {
+        "id": "1960695547037368385",
+        "text": "There are also voices that can only be heard\nIn a silent, still space\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-08-27T13:27:01.000Z",
+        "conversationId": "1960695547037368385",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                27,
+                34
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960695547037368385",
+          "createdAt": "Wed Aug 27 13:27:01 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1960695547037368385",
+          "text": "There are also voices that can only be heard\nIn a silent, still space\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1960695547037368385",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1960695547037368385",
+            "lang": "en",
+            "text": "There are also voices that can only be heard\nIn a silent, still space\n#IkizuliveClub",
+            "createdAt": "2025-08-27T14:00:12.498Z",
+            "updatedAt": "2025-08-27T14:00:12.498Z"
+          }
+        ]
+      },
+      {
+        "id": "1960696307267592657",
+        "text": "Is everyone else not suffering from summer heat exhaustion?\n\nIf you are, then today you'll sleep with me\nLove you❤\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-08-27T13:30:02.000Z",
+        "conversationId": "1960696307267592657",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                40,
+                47
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960696307267592657",
+          "createdAt": "Wed Aug 27 13:30:02 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1960696307267592657",
+          "text": "Is everyone else not suffering from summer heat exhaustion?\n\nIf you are, then today you'll sleep with me\nLove you❤\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1960696307267592657",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1960696307267592657",
+            "lang": "en",
+            "text": "Is everyone else not suffering from summer heat exhaustion?\n\nIf you are, then today you'll sleep with me\nLove you❤\n#IkizuliveClub",
+            "createdAt": "2025-08-27T14:00:12.498Z",
+            "updatedAt": "2025-08-27T14:00:12.498Z"
+          }
+        ]
+      }
+    ]
   }
 ]
