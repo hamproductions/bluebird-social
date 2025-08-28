@@ -10060,5 +10060,237 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906578738156064768",
+    "group_start_time": "2025-08-28 08:17:01",
+    "group_end_time": "2025-08-28 08:29:01",
+    "tweets": [
+      {
+        "id": "1960979922824126774",
+        "text": "ポルカちゃんがまた早く次のライブ活動をしたいって張り切ってる🎩✨\nきっと浅草の街を歩きながら、ふと思い出して踊ったりしてるんだろうなと思うと\nなんだかかわいいね🥰\n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-08-28T08:17:01.000Z",
+        "conversationId": "1960979922824126774",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                82,
+                89
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960979922824126774",
+          "createdAt": "Thu Aug 28 08:17:01 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1960979922824126774",
+          "text": "ポルカちゃんがまた早く次のライブ活動をしたいって張り切ってる🎩✨\nきっと浅草の街を歩きながら、ふと思い出して踊ったりしてるんだろうなと思うと\nなんだかかわいいね🥰\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  82,
+                  89
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1960979922824126774",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1960980676586447051",
+        "text": "初めての路上リアルライブをやってみてなるほどって思ったのは\nアイドルって全員が同じように並んで同じような振り付け同じようなバランスで踊るんだなっていうこと🩰✨\n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-08-28T08:20:01.000Z",
+        "conversationId": "1960980676586447051",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                80,
+                87
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960980676586447051",
+          "createdAt": "Thu Aug 28 08:20:01 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1960980676586447051",
+          "text": "初めての路上リアルライブをやってみてなるほどって思ったのは\nアイドルって全員が同じように並んで同じような振り付け同じようなバランスで踊るんだなっていうこと🩰✨\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  80,
+                  87
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1960980676586447051",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1960981429678170453",
+        "text": "だからみんなが同じように輝いて見えるんだね🎩🪄✨\n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-08-28T08:23:00.000Z",
+        "conversationId": "1960981429678170453",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                25,
+                32
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960981429678170453",
+          "createdAt": "Thu Aug 28 08:23:00 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1960981429678170453",
+          "text": "だからみんなが同じように輝いて見えるんだね🎩🪄✨\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  25,
+                  32
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1960981429678170453",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1960982186313834907",
+        "text": "歌劇団を目指していると、どうしても華やかなトップスターに目が行きがちで🎩\n衣装も違うし立ち位置もライトも、メイクも背負う羽の数も大きさも全然違う、その圧倒的な輝きと存在感にどうしたって心を揺らされる👑🪄\n\nだから私も憧れて目指して…\n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-08-28T08:26:01.000Z",
+        "conversationId": "1960982186313834907",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                117,
+                124
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960982186313834907",
+          "createdAt": "Thu Aug 28 08:26:01 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1960982186313834907",
+          "text": "歌劇団を目指していると、どうしても華やかなトップスターに目が行きがちで🎩\n衣装も違うし立ち位置もライトも、メイクも背負う羽の数も大きさも全然違う、その圧倒的な輝きと存在感にどうしたって心を揺らされる👑🪄\n\nだから私も憧れて目指して…\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  117,
+                  124
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1960982186313834907",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1960982942861189468",
+        "text": "でもね\nいきづらい部でみんなと踊ってみて🎁✨\nじつはステージングはスクールアイドルの方が私に向いてるかもしれないなって思ったんだ\nたぶん本当の私は…自分から前に出るのはあまり得意じゃないから\n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-08-28T08:29:01.000Z",
+        "conversationId": "1960982942861189468",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                96,
+                103
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1960982942861189468",
+          "createdAt": "Thu Aug 28 08:29:01 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1960982942861189468",
+          "text": "でもね\nいきづらい部でみんなと踊ってみて🎁✨\nじつはステージングはスクールアイドルの方が私に向いてるかもしれないなって思ったんだ\nたぶん本当の私は…自分から前に出るのはあまり得意じゃないから\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  96,
+                  103
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1960982942861189468",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
