@@ -10337,5 +10337,237 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906578029343916032",
+    "group_start_time": "2025-08-29 08:42:00",
+    "group_end_time": "2025-08-29 08:54:00",
+    "tweets": [
+      {
+        "id": "1961348597108379801",
+        "text": "のりり～🍭🍬🍫\n\nおおーー🎂🍰\n\nなんかすっごい新鮮！！\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-08-29T08:42:00.000Z",
+        "conversationId": "1961348597108379801",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                29,
+                36
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1961348597108379801",
+          "createdAt": "Fri Aug 29 08:42:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1961348597108379801",
+          "text": "のりり～🍭🍬🍫\n\nおおーー🎂🍰\n\nなんかすっごい新鮮！！\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  29,
+                  36
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1961348597108379801",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1961349352313745449",
+        "text": "みんないろんなアイデアありがとう～🎂🧁🍨\n\nいくらいつもの呼び方が物足りなくなったからって\nネットで募集なんてやりすぎだって\nのりりからはちょっぴり怒られたけどさ！🐱\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-08-29T08:45:00.000Z",
+        "conversationId": "1961349352313745449",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                84,
+                91
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1961349352313745449",
+          "createdAt": "Fri Aug 29 08:45:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1961349352313745449",
+          "text": "みんないろんなアイデアありがとう～🎂🧁🍨\n\nいくらいつもの呼び方が物足りなくなったからって\nネットで募集なんてやりすぎだって\nのりりからはちょっぴり怒られたけどさ！🐱\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  84,
+                  91
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1961349352313745449",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1961350107317641697",
+        "text": "でも！\nでもでも～\nやっぱり楽しい🧁🍭\n\nのりりって\nなんかスナック菓子のフレーバーの名前みたいな？\nおやつ感ある～🍩🍦\n\n見たら誰でもつい食べたくなっちゃう定番の味ぽい💪🧁\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-08-29T08:48:00.000Z",
+        "conversationId": "1961350107317641697",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                88,
+                95
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1961350107317641697",
+          "createdAt": "Fri Aug 29 08:48:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1961350107317641697",
+          "text": "でも！\nでもでも～\nやっぱり楽しい🧁🍭\n\nのりりって\nなんかスナック菓子のフレーバーの名前みたいな？\nおやつ感ある～🍩🍦\n\n見たら誰でもつい食べたくなっちゃう定番の味ぽい💪🧁\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  88,
+                  95
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1961350107317641697",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1961350862078661077",
+        "text": "ミィはさー🦖\nこう見えて案外呼び方少なくて🍪🧁\n\nミラクルとかミラミラとかクルクルとか🍡🍵\nまぁそういう普通な感じ！\n\nそれに比べてのりりんは🍩\nなーんかいろいろ呼んでみたくなるんだよね～🍬🍭\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-08-29T08:51:00.000Z",
+        "conversationId": "1961350862078661077",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                97,
+                104
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1961350862078661077",
+          "createdAt": "Fri Aug 29 08:51:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1961350862078661077",
+          "text": "ミィはさー🦖\nこう見えて案外呼び方少なくて🍪🧁\n\nミラクルとかミラミラとかクルクルとか🍡🍵\nまぁそういう普通な感じ！\n\nそれに比べてのりりんは🍩\nなーんかいろいろ呼んでみたくなるんだよね～🍬🍭\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  97,
+                  104
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1961350862078661077",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1961351617376370901",
+        "text": "むむむ🧁\n素材はシンプルな方がバリエーションが効くってことか\nたしかに！\nはちみつの甘さでケーキを作ると何もかもがはちみつ味になっちゃうもんね🍯🍰\nそこは細目グラニューとかでシンプルにした方が他の風味が活きてくる、と！！\n心のメモに刻むべし📝\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-08-29T08:54:00.000Z",
+        "conversationId": "1961351617376370901",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                122,
+                129
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1961351617376370901",
+          "createdAt": "Fri Aug 29 08:54:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1961351617376370901",
+          "text": "むむむ🧁\n素材はシンプルな方がバリエーションが効くってことか\nたしかに！\nはちみつの甘さでケーキを作ると何もかもがはちみつ味になっちゃうもんね🍯🍰\nそこは細目グラニューとかでシンプルにした方が他の風味が活きてくる、と！！\n心のメモに刻むべし📝\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  122,
+                  129
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1961351617376370901",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
