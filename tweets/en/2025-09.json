@@ -727,7 +727,7 @@
   {
     "author_id": "1906566008904761345",
     "group_start_time": "2025-09-02 12:19:00",
-    "group_end_time": "2025-09-02 12:28:00",
+    "group_end_time": "2025-09-02 12:43:00",
     "tweets": [
       {
         "id": "1962852758954090664",
@@ -769,13 +769,13 @@
             "lang": "en",
             "text": "September 1st = Leave me alone\n#IkizuliveClub",
             "createdAt": "2025-09-02T12:30:10.078Z",
-            "updatedAt": "2025-09-02T12:30:10.078Z"
+            "updatedAt": "2025-09-02T14:00:14.268Z"
           }
         ]
       },
       {
         "id": "1962853514931036190",
-        "text": "Opening ceremony means the worst\nThat was me until last year, but\n#IkizuliveClub",
+        "text": "Written as 'Opening Ceremony', read as 'The Worst'\nThat was me until last year\n#IkizuliveClub",
         "authorId": "1906566008904761345",
         "createdAt": "2025-09-02T12:22:00.000Z",
         "conversationId": "1962853514931036190",
@@ -796,7 +796,7 @@
           "id": "1962853514931036190",
           "createdAt": "Tue Sep 02 12:22:00 +0000 2025",
           "url": "https://x.com/ShaunTheBunny/status/1962853514931036190",
-          "text": "Opening ceremony means the worst\nThat was me until last year, but\n#IkizuliveClub",
+          "text": "Written as 'Opening Ceremony', read as 'The Worst'\nThat was me until last year\n#IkizuliveClub",
           "entities": [],
           "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962853514931036190",
           "author": {
@@ -811,15 +811,15 @@
           {
             "tweetId": "1962853514931036190",
             "lang": "en",
-            "text": "Opening ceremony means the worst\nThat was me until last year, but\n#IkizuliveClub",
+            "text": "Written as 'Opening Ceremony', read as 'The Worst'\nThat was me until last year\n#IkizuliveClub",
             "createdAt": "2025-09-02T12:30:10.078Z",
-            "updatedAt": "2025-09-02T12:30:10.078Z"
+            "updatedAt": "2025-09-02T14:00:14.295Z"
           }
         ]
       },
       {
         "id": "1962854269163393142",
-        "text": "This year, well\nI think I can forgive my existence, at least\n#IkizuliveClub",
+        "text": "This year, well...\nI think I can forgive my existence, at least\n#IkizuliveClub",
         "authorId": "1906566008904761345",
         "createdAt": "2025-09-02T12:25:00.000Z",
         "conversationId": "1962854269163393142",
@@ -840,7 +840,7 @@
           "id": "1962854269163393142",
           "createdAt": "Tue Sep 02 12:25:00 +0000 2025",
           "url": "https://x.com/ShaunTheBunny/status/1962854269163393142",
-          "text": "This year, well\nI think I can forgive my existence, at least\n#IkizuliveClub",
+          "text": "This year, well...\nI think I can forgive my existence, at least\n#IkizuliveClub",
           "entities": [],
           "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962854269163393142",
           "author": {
@@ -855,15 +855,15 @@
           {
             "tweetId": "1962854269163393142",
             "lang": "en",
-            "text": "This year, well\nI think I can forgive my existence, at least\n#IkizuliveClub",
+            "text": "This year, well...\nI think I can forgive my existence, at least\n#IkizuliveClub",
             "createdAt": "2025-09-02T12:30:10.078Z",
-            "updatedAt": "2025-09-02T12:30:10.078Z"
+            "updatedAt": "2025-09-02T14:00:14.309Z"
           }
         ]
       },
       {
         "id": "1962855024209326316",
-        "text": "Ah\nOf course, I won't go though ❤\n#IkizuliveClub",
+        "text": "Ah\nOf course, I won't go though❤\n#IkizuliveClub",
         "authorId": "1906566008904761345",
         "createdAt": "2025-09-02T12:28:00.000Z",
         "conversationId": "1962855024209326316",
@@ -884,7 +884,7 @@
           "id": "1962855024209326316",
           "createdAt": "Tue Sep 02 12:28:00 +0000 2025",
           "url": "https://x.com/ShaunTheBunny/status/1962855024209326316",
-          "text": "Ah\nOf course, I won't go though ❤\n#IkizuliveClub",
+          "text": "Ah\nOf course, I won't go though❤\n#IkizuliveClub",
           "entities": [],
           "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962855024209326316",
           "author": {
@@ -899,9 +899,229 @@
           {
             "tweetId": "1962855024209326316",
             "lang": "en",
-            "text": "Ah\nOf course, I won't go though ❤\n#IkizuliveClub",
+            "text": "Ah\nOf course, I won't go though❤\n#IkizuliveClub",
             "createdAt": "2025-09-02T12:30:10.078Z",
-            "updatedAt": "2025-09-02T12:30:10.078Z"
+            "updatedAt": "2025-09-02T14:00:14.321Z"
+          }
+        ]
+      },
+      {
+        "id": "1962855779217944710",
+        "text": "If you want to go, you can go.\nIf you don't want to go, you don't have to go.\nI've realized it's just that\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:31:00.000Z",
+        "conversationId": "1962855779217944710",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                49,
+                56
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962855779217944710",
+          "createdAt": "Tue Sep 02 12:31:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962855779217944710",
+          "text": "If you want to go, you can go.\nIf you don't want to go, you don't have to go.\nI've realized it's just that\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962855779217944710",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962855779217944710",
+            "lang": "en",
+            "text": "If you want to go, you can go.\nIf you don't want to go, you don't have to go.\nI've realized it's just that\n#IkizuliveClub",
+            "createdAt": "2025-09-02T14:00:14.243Z",
+            "updatedAt": "2025-09-02T14:00:14.243Z"
+          }
+        ]
+      },
+      {
+        "id": "1962856534070919501",
+        "text": "Yesterday was my own start of the second semester\nI tried looking for a part-time job\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:34:00.000Z",
+        "conversationId": "1962856534070919501",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                23,
+                30
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962856534070919501",
+          "createdAt": "Tue Sep 02 12:34:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962856534070919501",
+          "text": "Yesterday was my own start of the second semester\nI tried looking for a part-time job\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962856534070919501",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962856534070919501",
+            "lang": "en",
+            "text": "Yesterday was my own start of the second semester\nI tried looking for a part-time job\n#IkizuliveClub",
+            "createdAt": "2025-09-02T14:00:14.243Z",
+            "updatedAt": "2025-09-02T14:00:14.243Z"
+          }
+        ]
+      },
+      {
+        "id": "1962857289326469170",
+        "text": "I'm kind of interested in...\nJobs with uniforms?\n\nI never even thought of that possibility before...\nCan I do it...?\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:37:00.000Z",
+        "conversationId": "1962857289326469170",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                59,
+                66
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962857289326469170",
+          "createdAt": "Tue Sep 02 12:37:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962857289326469170",
+          "text": "I'm kind of interested in...\nJobs with uniforms?\n\nI never even thought of that possibility before...\nCan I do it...?\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962857289326469170",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962857289326469170",
+            "lang": "en",
+            "text": "I'm kind of interested in...\nJobs with uniforms?\n\nI never even thought of that possibility before...\nCan I do it...?\n#IkizuliveClub",
+            "createdAt": "2025-09-02T14:00:14.243Z",
+            "updatedAt": "2025-09-02T14:00:14.243Z"
+          }
+        ]
+      },
+      {
+        "id": "1962858043554910495",
+        "text": "That's right!\nIf you find any cute part-time jobs with uniforms that would suit me\nLet me know!\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:40:00.000Z",
+        "conversationId": "1962858043554910495",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                34,
+                41
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962858043554910495",
+          "createdAt": "Tue Sep 02 12:40:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962858043554910495",
+          "text": "That's right!\nIf you find any cute part-time jobs with uniforms that would suit me\nLet me know!\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962858043554910495",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962858043554910495",
+            "lang": "en",
+            "text": "That's right!\nIf you find any cute part-time jobs with uniforms that would suit me\nLet me know!\n#IkizuliveClub",
+            "createdAt": "2025-09-02T14:00:14.243Z",
+            "updatedAt": "2025-09-02T14:00:14.243Z"
+          }
+        ]
+      },
+      {
+        "id": "1962858798890275209",
+        "text": "I searched and found \"concafe\" (hostess bar)\n\nI love you all❤\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:43:00.000Z",
+        "conversationId": "1962858798890275209",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                27,
+                34
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962858798890275209",
+          "createdAt": "Tue Sep 02 12:43:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962858798890275209",
+          "text": "I searched and found \"concafe\" (hostess bar)\n\nI love you all❤\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962858798890275209",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962858798890275209",
+            "lang": "en",
+            "text": "I searched and found \"concafe\" (hostess bar)\n\nI love you all❤\n#IkizuliveClub",
+            "createdAt": "2025-09-02T14:00:14.243Z",
+            "updatedAt": "2025-09-02T14:00:14.243Z"
           }
         ]
       }

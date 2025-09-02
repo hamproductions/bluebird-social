@@ -743,7 +743,7 @@
   {
     "author_id": "1906566008904761345",
     "group_start_time": "2025-09-02 12:19:00",
-    "group_end_time": "2025-09-02 12:28:00",
+    "group_end_time": "2025-09-02 12:43:00",
     "tweets": [
       {
         "id": "1962852758954090664",
@@ -916,6 +916,231 @@
             ]
           },
           "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962855024209326316",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962855779217944710",
+        "text": "行きたい人は行けばいいし\n行きたくない人は行かなければいい\nただそれだけだってことが分かったから\n#いきづらい部",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:31:00.000Z",
+        "conversationId": "1962855779217944710",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                49,
+                56
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962855779217944710",
+          "createdAt": "Tue Sep 02 12:31:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962855779217944710",
+          "text": "行きたい人は行けばいいし\n行きたくない人は行かなければいい\nただそれだけだってことが分かったから\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  49,
+                  56
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962855779217944710",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962856534070919501",
+        "text": "昨日はボクなりの２学期初日\nバイト探してみた\n#いきづらい部",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:34:00.000Z",
+        "conversationId": "1962856534070919501",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                23,
+                30
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962856534070919501",
+          "createdAt": "Tue Sep 02 12:34:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962856534070919501",
+          "text": "昨日はボクなりの２学期初日\nバイト探してみた\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  23,
+                  30
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962856534070919501",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962857289326469170",
+        "text": "興味があるのはなんとなく\n制服のある仕事とか？\n\nそんな可能性今まで考えたこともなかったけど…\nボクにできる、かな…\n#いきづらい部",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:37:00.000Z",
+        "conversationId": "1962857289326469170",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                59,
+                66
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962857289326469170",
+          "createdAt": "Tue Sep 02 12:37:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962857289326469170",
+          "text": "興味があるのはなんとなく\n制服のある仕事とか？\n\nそんな可能性今まで考えたこともなかったけど…\nボクにできる、かな…\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  59,
+                  66
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962857289326469170",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962858043554910495",
+        "text": "そうだ！\nボクに似合いそうなかわいい制服のバイトあったら\n教えてね\n#いきづらい部",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:40:00.000Z",
+        "conversationId": "1962858043554910495",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                34,
+                41
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962858043554910495",
+          "createdAt": "Tue Sep 02 12:40:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962858043554910495",
+          "text": "そうだ！\nボクに似合いそうなかわいい制服のバイトあったら\n教えてね\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  34,
+                  41
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962858043554910495",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962858798890275209",
+        "text": "検索したらコンカフェ出てきた\n\nみんな、大好きだよ❤\n#いきづらい部",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:43:00.000Z",
+        "conversationId": "1962858798890275209",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                27,
+                34
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962858798890275209",
+          "createdAt": "Tue Sep 02 12:43:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962858798890275209",
+          "text": "検索したらコンカフェ出てきた\n\nみんな、大好きだよ❤\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  27,
+                  34
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962858798890275209",
           "author": {
             "name": "佐々木翔音@いきづらい部！",
             "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
