@@ -275,5 +275,282 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906615149987012608",
+    "group_start_time": "2025-09-02 07:45:00",
+    "group_end_time": "2025-09-02 08:00:01",
+    "tweets": [
+      {
+        "id": "1962783803937542411",
+        "text": "文化祭といったら\n\nヨーヨー釣りにスーパーボールすくい\n輪投げに射的に\nタコ焼きに焼きそば\nと言ったら🌊\n\n#いきづらい部",
+        "authorId": "1906615149987012608",
+        "createdAt": "2025-09-02T07:45:00.000Z",
+        "conversationId": "1962783803937542411",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                54,
+                61
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962783803937542411",
+          "createdAt": "Tue Sep 02 07:45:00 +0000 2025",
+          "url": "https://x.com/G_Akky304250/status/1962783803937542411",
+          "text": "文化祭といったら\n\nヨーヨー釣りにスーパーボールすくい\n輪投げに射的に\nタコ焼きに焼きそば\nと言ったら🌊\n\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  54,
+                  61
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/G_Akky304250/status/1962783803937542411",
+          "author": {
+            "name": "五桐 玲@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886488767442944/Jv0-T14d_normal.png",
+            "userName": "G_Akky304250"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962784559193571377",
+        "text": "それはただの縁日だと麻衣に言われた🎯\nたしかに🚵\n#いきづらい部",
+        "authorId": "1906615149987012608",
+        "createdAt": "2025-09-02T07:48:00.000Z",
+        "conversationId": "1962784559193571377",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                25,
+                32
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962784559193571377",
+          "createdAt": "Tue Sep 02 07:48:00 +0000 2025",
+          "url": "https://x.com/G_Akky304250/status/1962784559193571377",
+          "text": "それはただの縁日だと麻衣に言われた🎯\nたしかに🚵\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  25,
+                  32
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/G_Akky304250/status/1962784559193571377",
+          "author": {
+            "name": "五桐 玲@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886488767442944/Jv0-T14d_normal.png",
+            "userName": "G_Akky304250"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962785314117967976",
+        "text": "じゃあ他にはどんなのがあるのか聞いたら\nお化け屋敷に謎解きに脱出ゲーム\nジェットコースターにコーヒーカップとか…\n\nそんなのあるんだ🏔\n\n#いきづらい部",
+        "authorId": "1906615149987012608",
+        "createdAt": "2025-09-02T07:51:00.000Z",
+        "conversationId": "1962785314117967976",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                69,
+                76
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962785314117967976",
+          "createdAt": "Tue Sep 02 07:51:00 +0000 2025",
+          "url": "https://x.com/G_Akky304250/status/1962785314117967976",
+          "text": "じゃあ他にはどんなのがあるのか聞いたら\nお化け屋敷に謎解きに脱出ゲーム\nジェットコースターにコーヒーカップとか…\n\nそんなのあるんだ🏔\n\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  69,
+                  76
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/G_Akky304250/status/1962785314117967976",
+          "author": {
+            "name": "五桐 玲@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886488767442944/Jv0-T14d_normal.png",
+            "userName": "G_Akky304250"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962786068983329036",
+        "text": "まるでテーマパークみたいで\nあんまり想像つかないけど🌊\n文化祭って意外とスゴいんだね\n知らなかった！\n#いきづらい部",
+        "authorId": "1906615149987012608",
+        "createdAt": "2025-09-02T07:54:00.000Z",
+        "conversationId": "1962786068983329036",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                51,
+                58
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962786068983329036",
+          "createdAt": "Tue Sep 02 07:54:00 +0000 2025",
+          "url": "https://x.com/G_Akky304250/status/1962786068983329036",
+          "text": "まるでテーマパークみたいで\nあんまり想像つかないけど🌊\n文化祭って意外とスゴいんだね\n知らなかった！\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  51,
+                  58
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/G_Akky304250/status/1962786068983329036",
+          "author": {
+            "name": "五桐 玲@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886488767442944/Jv0-T14d_normal.png",
+            "userName": "G_Akky304250"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962786824209998173",
+        "text": "ローラはファッションショーとかダンスバトルとか\nバルーンアートとかも推してたけど🌈\n\n興奮したポルカが踊りだしそうになって焦った麻衣が\n改めてみんなでちゃんと話そうってなりました🏔\n#いきづらい部",
+        "authorId": "1906615149987012608",
+        "createdAt": "2025-09-02T07:57:00.000Z",
+        "conversationId": "1962786824209998173",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                91,
+                98
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962786824209998173",
+          "createdAt": "Tue Sep 02 07:57:00 +0000 2025",
+          "url": "https://x.com/G_Akky304250/status/1962786824209998173",
+          "text": "ローラはファッションショーとかダンスバトルとか\nバルーンアートとかも推してたけど🌈\n\n興奮したポルカが踊りだしそうになって焦った麻衣が\n改めてみんなでちゃんと話そうってなりました🏔\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  91,
+                  98
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/G_Akky304250/status/1962786824209998173",
+          "author": {
+            "name": "五桐 玲@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886488767442944/Jv0-T14d_normal.png",
+            "userName": "G_Akky304250"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962787582091153774",
+        "text": "私だったらクライミング体験とかしてみたいけど\nウォールがないからなー🏔\n#いきづらい部",
+        "authorId": "1906615149987012608",
+        "createdAt": "2025-09-02T08:00:01.000Z",
+        "conversationId": "1962787582091153774",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                36,
+                43
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962787582091153774",
+          "createdAt": "Tue Sep 02 08:00:01 +0000 2025",
+          "url": "https://x.com/G_Akky304250/status/1962787582091153774",
+          "text": "私だったらクライミング体験とかしてみたいけど\nウォールがないからなー🏔\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  36,
+                  43
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/G_Akky304250/status/1962787582091153774",
+          "author": {
+            "name": "五桐 玲@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886488767442944/Jv0-T14d_normal.png",
+            "userName": "G_Akky304250"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
