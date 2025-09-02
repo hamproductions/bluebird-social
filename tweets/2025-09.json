@@ -739,5 +739,192 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906566008904761345",
+    "group_start_time": "2025-09-02 12:19:00",
+    "group_end_time": "2025-09-02 12:28:00",
+    "tweets": [
+      {
+        "id": "1962852758954090664",
+        "text": "9月１日＝ほっておいて\n#いきづらい部",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:19:00.000Z",
+        "conversationId": "1962852758954090664",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                12,
+                19
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962852758954090664",
+          "createdAt": "Tue Sep 02 12:19:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962852758954090664",
+          "text": "9月１日＝ほっておいて\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  12,
+                  19
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962852758954090664",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962853514931036190",
+        "text": "始業式と書いて最悪と読む\nそれが去年までのボクだったけど\n#いきづらい部",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:22:00.000Z",
+        "conversationId": "1962853514931036190",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                29,
+                36
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962853514931036190",
+          "createdAt": "Tue Sep 02 12:22:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962853514931036190",
+          "text": "始業式と書いて最悪と読む\nそれが去年までのボクだったけど\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  29,
+                  36
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962853514931036190",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962854269163393142",
+        "text": "今年はまぁ\n存在くらいは許してあげてもいいかなって思う\n#いきづらい部",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:25:00.000Z",
+        "conversationId": "1962854269163393142",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                28,
+                35
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962854269163393142",
+          "createdAt": "Tue Sep 02 12:25:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962854269163393142",
+          "text": "今年はまぁ\n存在くらいは許してあげてもいいかなって思う\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  28,
+                  35
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962854269163393142",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962855024209326316",
+        "text": "あ\nもちろんボクは行かないけどね❤\n#いきづらい部",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:28:00.000Z",
+        "conversationId": "1962855024209326316",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                18,
+                25
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962855024209326316",
+          "createdAt": "Tue Sep 02 12:28:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962855024209326316",
+          "text": "あ\nもちろんボクは行かないけどね❤\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  18,
+                  25
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962855024209326316",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]

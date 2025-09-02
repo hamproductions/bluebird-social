@@ -723,5 +723,188 @@
         ]
       }
     ]
+  },
+  {
+    "author_id": "1906566008904761345",
+    "group_start_time": "2025-09-02 12:19:00",
+    "group_end_time": "2025-09-02 12:28:00",
+    "tweets": [
+      {
+        "id": "1962852758954090664",
+        "text": "September 1st = Leave me alone\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:19:00.000Z",
+        "conversationId": "1962852758954090664",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                12,
+                19
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962852758954090664",
+          "createdAt": "Tue Sep 02 12:19:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962852758954090664",
+          "text": "September 1st = Leave me alone\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962852758954090664",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962852758954090664",
+            "lang": "en",
+            "text": "September 1st = Leave me alone\n#IkizuliveClub",
+            "createdAt": "2025-09-02T12:30:10.078Z",
+            "updatedAt": "2025-09-02T12:30:10.078Z"
+          }
+        ]
+      },
+      {
+        "id": "1962853514931036190",
+        "text": "Opening ceremony means the worst\nThat was me until last year, but\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:22:00.000Z",
+        "conversationId": "1962853514931036190",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                29,
+                36
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962853514931036190",
+          "createdAt": "Tue Sep 02 12:22:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962853514931036190",
+          "text": "Opening ceremony means the worst\nThat was me until last year, but\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962853514931036190",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962853514931036190",
+            "lang": "en",
+            "text": "Opening ceremony means the worst\nThat was me until last year, but\n#IkizuliveClub",
+            "createdAt": "2025-09-02T12:30:10.078Z",
+            "updatedAt": "2025-09-02T12:30:10.078Z"
+          }
+        ]
+      },
+      {
+        "id": "1962854269163393142",
+        "text": "This year, well\nI think I can forgive my existence, at least\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:25:00.000Z",
+        "conversationId": "1962854269163393142",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                28,
+                35
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962854269163393142",
+          "createdAt": "Tue Sep 02 12:25:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962854269163393142",
+          "text": "This year, well\nI think I can forgive my existence, at least\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962854269163393142",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962854269163393142",
+            "lang": "en",
+            "text": "This year, well\nI think I can forgive my existence, at least\n#IkizuliveClub",
+            "createdAt": "2025-09-02T12:30:10.078Z",
+            "updatedAt": "2025-09-02T12:30:10.078Z"
+          }
+        ]
+      },
+      {
+        "id": "1962855024209326316",
+        "text": "Ah\nOf course, I won't go though ❤\n#IkizuliveClub",
+        "authorId": "1906566008904761345",
+        "createdAt": "2025-09-02T12:28:00.000Z",
+        "conversationId": "1962855024209326316",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                18,
+                25
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962855024209326316",
+          "createdAt": "Tue Sep 02 12:28:00 +0000 2025",
+          "url": "https://x.com/ShaunTheBunny/status/1962855024209326316",
+          "text": "Ah\nOf course, I won't go though ❤\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/ShaunTheBunny/status/1962855024209326316",
+          "author": {
+            "name": "佐々木翔音@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887496477999104/_YQM5wOR_normal.png",
+            "userName": "ShaunTheBunny"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962855024209326316",
+            "lang": "en",
+            "text": "Ah\nOf course, I won't go though ❤\n#IkizuliveClub",
+            "createdAt": "2025-09-02T12:30:10.078Z",
+            "updatedAt": "2025-09-02T12:30:10.078Z"
+          }
+        ]
+      }
+    ]
   }
 ]
