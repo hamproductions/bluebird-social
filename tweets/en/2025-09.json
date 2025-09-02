@@ -540,5 +540,188 @@
         ]
       }
     ]
+  },
+  {
+    "author_id": "1906615972401909760",
+    "group_start_time": "2025-09-02 08:03:00",
+    "group_end_time": "2025-09-02 08:12:00",
+    "tweets": [
+      {
+        "id": "1962788334721528214",
+        "text": "So, tomorrow\nwe're holding an emergency meeting\nabout the Ikizulive club's cultural festival plan💻\n\nBefore things get any more scattered,\nplease join if you can make it\n#IkizuliveClub",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-02T08:03:00.000Z",
+        "conversationId": "1962788334721528214",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                70,
+                77
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962788334721528214",
+          "createdAt": "Tue Sep 02 08:03:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1962788334721528214",
+          "text": "So, tomorrow\nwe're holding an emergency meeting\nabout the Ikizulive club's cultural festival plan💻\n\nBefore things get any more scattered,\nplease join if you can make it\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1962788334721528214",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962788334721528214",
+            "lang": "en",
+            "text": "So, tomorrow\nwe're holding an emergency meeting\nabout the Ikizulive club's cultural festival plan💻\n\nBefore things get any more scattered,\nplease join if you can make it\n#IkizuliveClub",
+            "createdAt": "2025-09-02T08:30:10.160Z",
+            "updatedAt": "2025-09-02T08:30:10.160Z"
+          }
+        ]
+      },
+      {
+        "id": "1962789089008295982",
+        "text": "I think a drone piloting game or an AR game app would be nice, but\nit's not that kind of thing, aaaahhhh\n\nI get it 💩\n#IkizuliveClub",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-02T08:06:00.000Z",
+        "conversationId": "1962789089008295982",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                59,
+                66
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962789089008295982",
+          "createdAt": "Tue Sep 02 08:06:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1962789089008295982",
+          "text": "I think a drone piloting game or an AR game app would be nice, but\nit's not that kind of thing, aaaahhhh\n\nI get it 💩\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1962789089008295982",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962789089008295982",
+            "lang": "en",
+            "text": "I think a drone piloting game or an AR game app would be nice, but\nit's not that kind of thing, aaaahhhh\n\nI get it 💩\n#IkizuliveClub",
+            "createdAt": "2025-09-02T08:30:10.160Z",
+            "updatedAt": "2025-09-02T08:30:10.160Z"
+          }
+        ]
+      },
+      {
+        "id": "1962789843978621204",
+        "text": "Since we don't even have a school building where we can hold a cultural festival\nwe have to start by thinking about the venue💻\n\nHigh hurdle!\n#IkizuliveClub",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-02T08:09:00.000Z",
+        "conversationId": "1962789843978621204",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                61,
+                68
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962789843978621204",
+          "createdAt": "Tue Sep 02 08:09:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1962789843978621204",
+          "text": "Since we don't even have a school building where we can hold a cultural festival\nwe have to start by thinking about the venue💻\n\nHigh hurdle!\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1962789843978621204",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962789843978621204",
+            "lang": "en",
+            "text": "Since we don't even have a school building where we can hold a cultural festival\nwe have to start by thinking about the venue💻\n\nHigh hurdle!\n#IkizuliveClub",
+            "createdAt": "2025-09-02T08:30:10.160Z",
+            "updatedAt": "2025-09-02T08:30:10.160Z"
+          }
+        ]
+      },
+      {
+        "id": "1962790598835896503",
+        "text": "If anyone has any good ideas,\nplease let us know 🐌\n#IkizuliveClub",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-02T08:12:00.000Z",
+        "conversationId": "1962790598835896503",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                32,
+                39
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962790598835896503",
+          "createdAt": "Tue Sep 02 08:12:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1962790598835896503",
+          "text": "If anyone has any good ideas,\nplease let us know 🐌\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1962790598835896503",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1962790598835896503",
+            "lang": "en",
+            "text": "If anyone has any good ideas,\nplease let us know 🐌\n#IkizuliveClub",
+            "createdAt": "2025-09-02T08:30:10.160Z",
+            "updatedAt": "2025-09-02T08:30:10.160Z"
+          }
+        ]
+      }
+    ]
   }
 ]

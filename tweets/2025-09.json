@@ -552,5 +552,192 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906615972401909760",
+    "group_start_time": "2025-09-02 08:03:00",
+    "group_end_time": "2025-09-02 08:12:00",
+    "tweets": [
+      {
+        "id": "1962788334721528214",
+        "text": "そういうわけで明日\nいきづらい部文化祭開催計画について\n緊急集会やります💻\n\nこれ以上話が散らかる前に\n都合のつく人はぜひ参加してください\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-02T08:03:00.000Z",
+        "conversationId": "1962788334721528214",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                70,
+                77
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962788334721528214",
+          "createdAt": "Tue Sep 02 08:03:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1962788334721528214",
+          "text": "そういうわけで明日\nいきづらい部文化祭開催計画について\n緊急集会やります💻\n\nこれ以上話が散らかる前に\n都合のつく人はぜひ参加してください\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  70,
+                  77
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1962788334721528214",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962789089008295982",
+        "text": "私はドローン操縦ゲームかARゲームアプリとかいいなと思うけれど\nそういうんじゃないんだよなぁああああ\n\n分かってる💩\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-02T08:06:00.000Z",
+        "conversationId": "1962789089008295982",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                59,
+                66
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962789089008295982",
+          "createdAt": "Tue Sep 02 08:06:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1962789089008295982",
+          "text": "私はドローン操縦ゲームかARゲームアプリとかいいなと思うけれど\nそういうんじゃないんだよなぁああああ\n\n分かってる💩\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  59,
+                  66
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1962789089008295982",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962789843978621204",
+        "text": "そもそも文化祭を開催できるような校舎がないんだから\n会場をどうするかから\n考えなくちゃいけないんだから💻\n\nハードル高！\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-02T08:09:00.000Z",
+        "conversationId": "1962789843978621204",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                61,
+                68
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962789843978621204",
+          "createdAt": "Tue Sep 02 08:09:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1962789843978621204",
+          "text": "そもそも文化祭を開催できるような校舎がないんだから\n会場をどうするかから\n考えなくちゃいけないんだから💻\n\nハードル高！\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  61,
+                  68
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1962789843978621204",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1962790598835896503",
+        "text": "みなさんももし何かいいアイデアあったら\nよろしくお願いします🐌\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-02T08:12:00.000Z",
+        "conversationId": "1962790598835896503",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                32,
+                39
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1962790598835896503",
+          "createdAt": "Tue Sep 02 08:12:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1962790598835896503",
+          "text": "みなさんももし何かいいアイデアあったら\nよろしくお願いします🐌\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  32,
+                  39
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1962790598835896503",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
