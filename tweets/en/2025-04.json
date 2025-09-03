@@ -1484,40 +1484,6 @@
     "group_end_time": "2025-04-11 08:12:00",
     "tweets": [
       {
-        "id": "1910606746151768230",
-        "text": "And when I said that,\nMai-chan told me, \"Polka's predictions are too low...\"\nThat's true ⛩",
-        "authorId": "1884116039795195904",
-        "createdAt": "2025-04-11T08:12:00.000Z",
-        "conversationId": "1910606746151768230",
-        "source": "",
-        "isReply": false,
-        "entities": {},
-        "data": {
-          "id": "1910606746151768230",
-          "createdAt": "Fri Apr 11 08:12:00 +0000 2025",
-          "url": "https://x.com/polka_lion/status/1910606746151768230",
-          "text": "And when I said that,\nMai-chan told me, \"Polka's predictions are too low...\"\nThat's true ⛩",
-          "entities": [],
-          "twitterUrl": "https://twitter.com/polka_lion/status/1910606746151768230",
-          "author": {
-            "name": "高橋ポルカ@いきづらい部！",
-            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
-            "userName": "polka_lion"
-          },
-          "quoted_tweet": null,
-          "retweeted_tweet": null
-        },
-        "translations": [
-          {
-            "tweetId": "1910606746151768230",
-            "lang": "en",
-            "text": "And when I said that,\nMai-chan told me, \"Polka's predictions are too low...\"\nThat's true ⛩",
-            "createdAt": "2025-08-09T17:57:48.281Z",
-            "updatedAt": "2025-08-13T11:31:04.711Z"
-          }
-        ]
-      },
-      {
         "id": "1910606746076258785",
         "text": "Today too, Mai-chan taught me various ways to use the computer!\nMai-mai is truly too kind, a great angel!! 👻✨\nAnd that's how I learned about the existence of \"remote discussion rooms\" 🍵\n\nDuring lunch break, I talked with kids from other campuses while eating snacks...\nToo amazing 🌻\n\nL High, for now, exceeds Polka's expectations every day 💪✨",
         "authorId": "1884116039795195904",
@@ -1548,6 +1514,40 @@
             "text": "Today too, Mai-chan taught me various ways to use the computer!\nMai-mai is truly too kind, a great angel!! 👻✨\nAnd that's how I learned about the existence of \"remote discussion rooms\" 🍵\n\nDuring lunch break, I talked with kids from other campuses while eating snacks...\nToo amazing 🌻\n\nL High, for now, exceeds Polka's expectations every day 💪✨",
             "createdAt": "2025-08-09T17:57:48.281Z",
             "updatedAt": "2025-08-13T11:31:04.713Z"
+          }
+        ]
+      },
+      {
+        "id": "1910606746151768230",
+        "text": "And when I said that,\nMai-chan told me, \"Polka's predictions are too low...\"\nThat's true ⛩",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-04-11T08:12:00.000Z",
+        "conversationId": "1910606746151768230",
+        "source": "",
+        "isReply": false,
+        "entities": {},
+        "data": {
+          "id": "1910606746151768230",
+          "createdAt": "Fri Apr 11 08:12:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1910606746151768230",
+          "text": "And when I said that,\nMai-chan told me, \"Polka's predictions are too low...\"\nThat's true ⛩",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1910606746151768230",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1910606746151768230",
+            "lang": "en",
+            "text": "And when I said that,\nMai-chan told me, \"Polka's predictions are too low...\"\nThat's true ⛩",
+            "createdAt": "2025-08-09T17:57:48.281Z",
+            "updatedAt": "2025-08-13T11:31:04.711Z"
           }
         ]
       }

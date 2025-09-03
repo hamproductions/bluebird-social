@@ -1795,5 +1795,372 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906585009492049920",
+    "group_start_time": "2025-09-03 22:11:00",
+    "group_end_time": "2025-09-03 22:32:00",
+    "tweets": [
+      {
+        "id": "1963364128334168488",
+        "text": "おはようございます！\n１人１人の力は小さくても集まればきっと地球🌎の緑を守ると信じてるLittle🌵🌳green小さなみどりです\nついに夏休みが終わりましたね！\n今年の夏はなかなか有意義だったと思います🌵🌎\n#いきづらい部",
+        "authorId": "1906585009492049920",
+        "createdAt": "2025-09-03T22:11:00.000Z",
+        "conversationId": "1963364128334168488",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                104,
+                111
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963364128334168488",
+          "createdAt": "Wed Sep 03 22:11:00 +0000 2025",
+          "url": "https://x.com/LittlegreenCom/status/1963364128334168488",
+          "text": "おはようございます！\n１人１人の力は小さくても集まればきっと地球🌎の緑を守ると信じてるLittle🌵🌳green小さなみどりです\nついに夏休みが終わりましたね！\n今年の夏はなかなか有意義だったと思います🌵🌎\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  104,
+                  111
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/LittlegreenCom/status/1963364128334168488",
+          "author": {
+            "name": "山田真緑@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png",
+            "userName": "LittlegreenCom"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963364883212247454",
+        "text": "ビーチクリーンの活動に環境イベントへの参加、環境保護NPOでのボランティアに\nスクールアイドルの活動も！！\n盛りだくさんですね🐧\nちょっと不思議なラインナップですけれど🌎\n#いきづらい部",
+        "authorId": "1906585009492049920",
+        "createdAt": "2025-09-03T22:14:00.000Z",
+        "conversationId": "1963364883212247454",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                86,
+                93
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963364883212247454",
+          "createdAt": "Wed Sep 03 22:14:00 +0000 2025",
+          "url": "https://x.com/LittlegreenCom/status/1963364883212247454",
+          "text": "ビーチクリーンの活動に環境イベントへの参加、環境保護NPOでのボランティアに\nスクールアイドルの活動も！！\n盛りだくさんですね🐧\nちょっと不思議なラインナップですけれど🌎\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  86,
+                  93
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/LittlegreenCom/status/1963364883212247454",
+          "author": {
+            "name": "山田真緑@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png",
+            "userName": "LittlegreenCom"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963365638199476519",
+        "text": "これでしばらく学校に行く間は雪ちゃんとお別れなので、頭をなでなでしてからベッドに置いていきます！\nあ、雪ちゃんというのは…\n私の大切にしているユキヒョウのぬいぐるみです🌎\n#いきづらい部",
+        "authorId": "1906585009492049920",
+        "createdAt": "2025-09-03T22:17:00.000Z",
+        "conversationId": "1963365638199476519",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                86,
+                93
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963365638199476519",
+          "createdAt": "Wed Sep 03 22:17:00 +0000 2025",
+          "url": "https://x.com/LittlegreenCom/status/1963365638199476519",
+          "text": "これでしばらく学校に行く間は雪ちゃんとお別れなので、頭をなでなでしてからベッドに置いていきます！\nあ、雪ちゃんというのは…\n私の大切にしているユキヒョウのぬいぐるみです🌎\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  86,
+                  93
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/LittlegreenCom/status/1963365638199476519",
+          "author": {
+            "name": "山田真緑@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png",
+            "userName": "LittlegreenCom"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963366393543619053",
+        "text": "みなさんご存知ですか？\nユキヒョウというのは、標高が６０００ｍにも届くようなアジアの高山地域で生息可能な希少な動物なんですけれど！\n気候変動などによる自然環境の変化によって今絶体絶命🌎絶滅の危機にあるんです！！！\n#いきづらい部",
+        "authorId": "1906585009492049920",
+        "createdAt": "2025-09-03T22:20:00.000Z",
+        "conversationId": "1963366393543619053",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                107,
+                114
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963366393543619053",
+          "createdAt": "Wed Sep 03 22:20:00 +0000 2025",
+          "url": "https://x.com/LittlegreenCom/status/1963366393543619053",
+          "text": "みなさんご存知ですか？\nユキヒョウというのは、標高が６０００ｍにも届くようなアジアの高山地域で生息可能な希少な動物なんですけれど！\n気候変動などによる自然環境の変化によって今絶体絶命🌎絶滅の危機にあるんです！！！\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  107,
+                  114
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/LittlegreenCom/status/1963366393543619053",
+          "author": {
+            "name": "山田真緑@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png",
+            "userName": "LittlegreenCom"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963367148090167326",
+        "text": "こんなにかわいいのに…\nもう一回なでなで🐛\n#いきづらい部",
+        "authorId": "1906585009492049920",
+        "createdAt": "2025-09-03T22:23:00.000Z",
+        "conversationId": "1963367148090167326",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                22,
+                29
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963367148090167326",
+          "createdAt": "Wed Sep 03 22:23:00 +0000 2025",
+          "url": "https://x.com/LittlegreenCom/status/1963367148090167326",
+          "text": "こんなにかわいいのに…\nもう一回なでなで🐛\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  22,
+                  29
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/LittlegreenCom/status/1963367148090167326",
+          "author": {
+            "name": "山田真緑@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png",
+            "userName": "LittlegreenCom"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963367903052665130",
+        "text": "このぬいぐるみは以前にプレゼントとして両親からもらったものなんですけれど…\n事前に何か欲しいものがあるかと聞かれたので！！\n私へのプレゼントに使ってくれる分があるなら全部環境保護への寄付にしてほしいです🌎\nとお願いしたらこの子がやって来ました🌵🌳\n#いきづらい部",
+        "authorId": "1906585009492049920",
+        "createdAt": "2025-09-03T22:26:00.000Z",
+        "conversationId": "1963367903052665130",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                124,
+                131
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963367903052665130",
+          "createdAt": "Wed Sep 03 22:26:00 +0000 2025",
+          "url": "https://x.com/LittlegreenCom/status/1963367903052665130",
+          "text": "このぬいぐるみは以前にプレゼントとして両親からもらったものなんですけれど…\n事前に何か欲しいものがあるかと聞かれたので！！\n私へのプレゼントに使ってくれる分があるなら全部環境保護への寄付にしてほしいです🌎\nとお願いしたらこの子がやって来ました🌵🌳\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  124,
+                  131
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/LittlegreenCom/status/1963367903052665130",
+          "author": {
+            "name": "山田真緑@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png",
+            "userName": "LittlegreenCom"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963368657918321043",
+        "text": "環境保護団体に寄付をするとこのぬいぐるみが贈られてくるというギフトプランがあったみたいで🎁\nかわいくていい子で夜も一緒に寝ています🍀\n雪ちゃんのつぶらな瞳と目が合うたびに、絶対に頑張って私が地球を守らなきゃ！！って思うんです🌎\n#いきづらい部",
+        "authorId": "1906585009492049920",
+        "createdAt": "2025-09-03T22:29:00.000Z",
+        "conversationId": "1963368657918321043",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                114,
+                121
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963368657918321043",
+          "createdAt": "Wed Sep 03 22:29:00 +0000 2025",
+          "url": "https://x.com/LittlegreenCom/status/1963368657918321043",
+          "text": "環境保護団体に寄付をするとこのぬいぐるみが贈られてくるというギフトプランがあったみたいで🎁\nかわいくていい子で夜も一緒に寝ています🍀\n雪ちゃんのつぶらな瞳と目が合うたびに、絶対に頑張って私が地球を守らなきゃ！！って思うんです🌎\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  114,
+                  121
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/LittlegreenCom/status/1963368657918321043",
+          "author": {
+            "name": "山田真緑@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png",
+            "userName": "LittlegreenCom"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963369413283123344",
+        "text": "この話を輝夜ちゃんとゆくりちゃんにしたら２人とも少し涙ぐんでいました！\nきっと２人ともユキヒョウの運命を想ってくれたんだと思います！！\n優しいです🌎✨\nみんなの力で一頭でもユキヒョウが増えますように🍀\n#いきづらい部",
+        "authorId": "1906585009492049920",
+        "createdAt": "2025-09-03T22:32:00.000Z",
+        "conversationId": "1963369413283123344",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                101,
+                108
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963369413283123344",
+          "createdAt": "Wed Sep 03 22:32:00 +0000 2025",
+          "url": "https://x.com/LittlegreenCom/status/1963369413283123344",
+          "text": "この話を輝夜ちゃんとゆくりちゃんにしたら２人とも少し涙ぐんでいました！\nきっと２人ともユキヒョウの運命を想ってくれたんだと思います！！\n優しいです🌎✨\nみんなの力で一頭でもユキヒョウが増えますように🍀\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  101,
+                  108
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/LittlegreenCom/status/1963369413283123344",
+          "author": {
+            "name": "山田真緑@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887756210540544/qODvEu78_normal.png",
+            "userName": "LittlegreenCom"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
