@@ -1397,5 +1397,100 @@
         ]
       }
     ]
+  },
+  {
+    "author_id": "1906578029343916032",
+    "group_start_time": "2025-09-03 09:55:00",
+    "group_end_time": "2025-09-03 09:58:00",
+    "tweets": [
+      {
+        "id": "1963178907596923208",
+        "text": "Mii also casts a vote for matching T-shirts for everyone!!\nCute ones or stylish ones? 🍧🍦\nCool/handsome ones are also an option, right? 🍡🍵\n#IkizuliveClub",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-09-03T09:55:00.000Z",
+        "conversationId": "1963178907596923208",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                63,
+                70
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963178907596923208",
+          "createdAt": "Wed Sep 03 09:55:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1963178907596923208",
+          "text": "Mii also casts a vote for matching T-shirts for everyone!!\nCute ones or stylish ones? 🍧🍦\nCool/handsome ones are also an option, right? 🍡🍵\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1963178907596923208",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963178907596923208",
+            "lang": "en",
+            "text": "Mii also casts a vote for matching T-shirts for everyone!!\nCute ones or stylish ones? 🍧🍦\nCool/handsome ones are also an option, right? 🍡🍵\n#IkizuliveClub",
+            "createdAt": "2025-09-03T10:00:11.526Z",
+            "updatedAt": "2025-09-03T10:00:11.526Z"
+          }
+        ]
+      },
+      {
+        "id": "1963179662751797362",
+        "text": "Seeing the always elegant Yukki wear a T-shirt with cool/handsome calligraphy on it!\nI want to see it! 🥰🍩🧁\n#IkizuliveClub",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-09-03T09:58:00.000Z",
+        "conversationId": "1963179662751797362",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                42,
+                49
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963179662751797362",
+          "createdAt": "Wed Sep 03 09:58:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1963179662751797362",
+          "text": "Seeing the always elegant Yukki wear a T-shirt with cool/handsome calligraphy on it!\nI want to see it! 🥰🍩🧁\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1963179662751797362",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963179662751797362",
+            "lang": "en",
+            "text": "Seeing the always elegant Yukki wear a T-shirt with cool/handsome calligraphy on it!\nI want to see it! 🥰🍩🧁\n#IkizuliveClub",
+            "createdAt": "2025-09-03T10:00:11.526Z",
+            "updatedAt": "2025-09-03T10:00:11.526Z"
+          }
+        ]
+      }
+    ]
   }
 ]
