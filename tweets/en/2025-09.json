@@ -1130,11 +1130,11 @@
   {
     "author_id": "1884116039795195904",
     "group_start_time": "2025-09-03 08:29:00",
-    "group_end_time": "2025-09-03 08:29:00",
+    "group_end_time": "2025-09-03 08:44:00",
     "tweets": [
       {
         "id": "1963157265042538523",
-        "text": "Haunted houses, roller coasters, etc. 👻\nCafes, fashion shows, etc. 🌻\n\nJust hearing about them makes me think they sound so fun!!!\nPolka's feet started dancing before she knew it 🌻⛩✨\n#IkizuliveClub",
+        "text": "Haunted houses and roller coasters 👻\nCafes and fashion shows 🌻\n\nJust hearing about them makes me so excited!!!\nPolka's feet started dancing before she knew it 🌻⛩✨\n#IkizuliveClub",
         "authorId": "1884116039795195904",
         "createdAt": "2025-09-03T08:29:00.000Z",
         "conversationId": "1963157265042538523",
@@ -1155,7 +1155,7 @@
           "id": "1963157265042538523",
           "createdAt": "Wed Sep 03 08:29:00 +0000 2025",
           "url": "https://x.com/polka_lion/status/1963157265042538523",
-          "text": "Haunted houses, roller coasters, etc. 👻\nCafes, fashion shows, etc. 🌻\n\nJust hearing about them makes me think they sound so fun!!!\nPolka's feet started dancing before she knew it 🌻⛩✨\n#IkizuliveClub",
+          "text": "Haunted houses and roller coasters 👻\nCafes and fashion shows 🌻\n\nJust hearing about them makes me so excited!!!\nPolka's feet started dancing before she knew it 🌻⛩✨\n#IkizuliveClub",
           "entities": [],
           "twitterUrl": "https://twitter.com/polka_lion/status/1963157265042538523",
           "author": {
@@ -1170,9 +1170,229 @@
           {
             "tweetId": "1963157265042538523",
             "lang": "en",
-            "text": "Haunted houses, roller coasters, etc. 👻\nCafes, fashion shows, etc. 🌻\n\nJust hearing about them makes me think they sound so fun!!!\nPolka's feet started dancing before she knew it 🌻⛩✨\n#IkizuliveClub",
+            "text": "Haunted houses and roller coasters 👻\nCafes and fashion shows 🌻\n\nJust hearing about them makes me so excited!!!\nPolka's feet started dancing before she knew it 🌻⛩✨\n#IkizuliveClub",
             "createdAt": "2025-09-03T08:30:09.966Z",
-            "updatedAt": "2025-09-03T08:30:09.966Z"
+            "updatedAt": "2025-09-03T09:00:17.889Z"
+          }
+        ]
+      },
+      {
+        "id": "1963158020197892110",
+        "text": "It's okay!!\nI properly understand that we can't do everything 🌻✨\nAfter all, we're school idols 🎤✨\n\nFirst, we need to seriously think about what we 10 can do!\nRight? ⛩\n#IkizuliveClub",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-09-03T08:32:00.000Z",
+        "conversationId": "1963158020197892110",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                80,
+                87
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963158020197892110",
+          "createdAt": "Wed Sep 03 08:32:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1963158020197892110",
+          "text": "It's okay!!\nI properly understand that we can't do everything 🌻✨\nAfter all, we're school idols 🎤✨\n\nFirst, we need to seriously think about what we 10 can do!\nRight? ⛩\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1963158020197892110",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963158020197892110",
+            "lang": "en",
+            "text": "It's okay!!\nI properly understand that we can't do everything 🌻✨\nAfter all, we're school idols 🎤✨\n\nFirst, we need to seriously think about what we 10 can do!\nRight? ⛩\n#IkizuliveClub",
+            "createdAt": "2025-09-03T09:00:17.846Z",
+            "updatedAt": "2025-09-03T09:00:17.846Z"
+          }
+        ]
+      },
+      {
+        "id": "1963158775076192641",
+        "text": "Keep our feet on the ground!\n\nThat's a bit of something Polka isn't good at~ 🌻✨\nBut I can do it if we're all together!\nProbably!! 💪✨\n#IkizuliveClub",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-09-03T08:35:00.000Z",
+        "conversationId": "1963158775076192641",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                53,
+                60
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963158775076192641",
+          "createdAt": "Wed Sep 03 08:35:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1963158775076192641",
+          "text": "Keep our feet on the ground!\n\nThat's a bit of something Polka isn't good at~ 🌻✨\nBut I can do it if we're all together!\nProbably!! 💪✨\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1963158775076192641",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963158775076192641",
+            "lang": "en",
+            "text": "Keep our feet on the ground!\n\nThat's a bit of something Polka isn't good at~ 🌻✨\nBut I can do it if we're all together!\nProbably!! 💪✨\n#IkizuliveClub",
+            "createdAt": "2025-09-03T09:00:17.846Z",
+            "updatedAt": "2025-09-03T09:00:17.846Z"
+          }
+        ]
+      },
+      {
+        "id": "1963159530126147983",
+        "text": "The result of consulting with the school staff was 🦁\n\nWe'll try applying, but 🏫\nEven if we get permission and can do it at the school building,\nThere are issues like attracting an audience or not being able to play loud music...\n\nIf you want to do school idol activities 🎤\nWouldn't it be better to rent some kind of stage?\n\nThat's what they said 🌻\n#IkizuliveClub",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-09-03T08:38:00.000Z",
+        "conversationId": "1963159530126147983",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                132,
+                139
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963159530126147983",
+          "createdAt": "Wed Sep 03 08:38:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1963159530126147983",
+          "text": "The result of consulting with the school staff was 🦁\n\nWe'll try applying, but 🏫\nEven if we get permission and can do it at the school building,\nThere are issues like attracting an audience or not being able to play loud music...\n\nIf you want to do school idol activities 🎤\nWouldn't it be better to rent some kind of stage?\n\nThat's what they said 🌻\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1963159530126147983",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963159530126147983",
+            "lang": "en",
+            "text": "The result of consulting with the school staff was 🦁\n\nWe'll try applying, but 🏫\nEven if we get permission and can do it at the school building,\nThere are issues like attracting an audience or not being able to play loud music...\n\nIf you want to do school idol activities 🎤\nWouldn't it be better to rent some kind of stage?\n\nThat's what they said 🌻\n#IkizuliveClub",
+            "createdAt": "2025-09-03T09:00:17.846Z",
+            "updatedAt": "2025-09-03T09:00:17.846Z"
+          }
+        ]
+      },
+      {
+        "id": "1963160284987535710",
+        "text": "Mai-chan was grumbling, \"She's such an avoidist!\"...\n#IkizuliveClub",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-09-03T08:41:00.000Z",
+        "conversationId": "1963160284987535710",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                36,
+                43
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963160284987535710",
+          "createdAt": "Wed Sep 03 08:41:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1963160284987535710",
+          "text": "Mai-chan was grumbling, \"She's such an avoidist!\"...\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1963160284987535710",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963160284987535710",
+            "lang": "en",
+            "text": "Mai-chan was grumbling, \"She's such an avoidist!\"...\n#IkizuliveClub",
+            "createdAt": "2025-09-03T09:00:17.846Z",
+            "updatedAt": "2025-09-03T09:00:17.846Z"
+          }
+        ]
+      },
+      {
+        "id": "1963161039853244679",
+        "text": "For now, Polka wants to make cultural festival T-shirts~ 🌻⛩✨\n\nMatching ones for everyone, I want to wear them 🥰\n#IkizuliveClub",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-09-03T08:44:00.000Z",
+        "conversationId": "1963161039853244679",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                42,
+                49
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963161039853244679",
+          "createdAt": "Wed Sep 03 08:44:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1963161039853244679",
+          "text": "For now, Polka wants to make cultural festival T-shirts~ 🌻⛩✨\n\nMatching ones for everyone, I want to wear them 🥰\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/polka_lion/status/1963161039853244679",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963161039853244679",
+            "lang": "en",
+            "text": "For now, Polka wants to make cultural festival T-shirts~ 🌻⛩✨\n\nMatching ones for everyone, I want to wear them 🥰\n#IkizuliveClub",
+            "createdAt": "2025-09-03T09:00:17.846Z",
+            "updatedAt": "2025-09-03T09:00:17.846Z"
           }
         ]
       }
