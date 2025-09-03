@@ -1151,5 +1151,57 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1884116039795195904",
+    "group_start_time": "2025-09-03 08:29:00",
+    "group_end_time": "2025-09-03 08:29:00",
+    "tweets": [
+      {
+        "id": "1963157265042538523",
+        "text": "お化け屋敷とかジェットコースターとか👻\n喫茶店とかファッションショーとか🌻\n\nもう聞いてるだけで楽しそう！！！って思って\n思わず踊りだしたポルカの足だけど🌻⛩✨\n#いきづらい部",
+        "authorId": "1884116039795195904",
+        "createdAt": "2025-09-03T08:29:00.000Z",
+        "conversationId": "1963157265042538523",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                81,
+                88
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963157265042538523",
+          "createdAt": "Wed Sep 03 08:29:00 +0000 2025",
+          "url": "https://x.com/polka_lion/status/1963157265042538523",
+          "text": "お化け屋敷とかジェットコースターとか👻\n喫茶店とかファッションショーとか🌻\n\nもう聞いてるだけで楽しそう！！！って思って\n思わず踊りだしたポルカの足だけど🌻⛩✨\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  81,
+                  88
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/polka_lion/status/1963157265042538523",
+          "author": {
+            "name": "高橋ポルカ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886430265221121/uOWsSYJW_normal.png",
+            "userName": "polka_lion"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
