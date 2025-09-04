@@ -2162,5 +2162,237 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906578738156064768",
+    "group_start_time": "2025-09-04 09:06:00",
+    "group_end_time": "2025-09-04 09:18:00",
+    "tweets": [
+      {
+        "id": "1963528964502364310",
+        "text": "真緑ちゃんのぬいぐるみはホワイトタイガーだと思ってたけど違ってた🥰\n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-09-04T09:06:00.000Z",
+        "conversationId": "1963528964502364310",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                34,
+                41
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963528964502364310",
+          "createdAt": "Thu Sep 04 09:06:00 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1963528964502364310",
+          "text": "真緑ちゃんのぬいぐるみはホワイトタイガーだと思ってたけど違ってた🥰\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  34,
+                  41
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1963528964502364310",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963529719242228141",
+        "text": "そして特に真緑ちゃんがぬいぐるみ好きっていうわけでもなかったことが分かって、なんだかちょっと納得👑✨\n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-09-04T09:09:00.000Z",
+        "conversationId": "1963529719242228141",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                51,
+                58
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963529719242228141",
+          "createdAt": "Thu Sep 04 09:09:00 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1963529719242228141",
+          "text": "そして特に真緑ちゃんがぬいぐるみ好きっていうわけでもなかったことが分かって、なんだかちょっと納得👑✨\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  51,
+                  58
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1963529719242228141",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963530474435043779",
+        "text": "話を聞いてたら真緑ちゃんの健気さといじらしさが私の胸に熱く迫ってきました🩰\n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-09-04T09:12:00.000Z",
+        "conversationId": "1963530474435043779",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                38,
+                45
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963530474435043779",
+          "createdAt": "Thu Sep 04 09:12:00 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1963530474435043779",
+          "text": "話を聞いてたら真緑ちゃんの健気さといじらしさが私の胸に熱く迫ってきました🩰\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  38,
+                  45
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1963530474435043779",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963531229502083526",
+        "text": "楽しかった夏休みが終わり、新学期が始まって日常が戻って来たけど🎩✨\nまた次の目標があるから、頑張ろうという気持ちはめいっぱいです💖\n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-09-04T09:15:00.000Z",
+        "conversationId": "1963531229502083526",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                66,
+                73
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963531229502083526",
+          "createdAt": "Thu Sep 04 09:15:00 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1963531229502083526",
+          "text": "楽しかった夏休みが終わり、新学期が始まって日常が戻って来たけど🎩✨\nまた次の目標があるから、頑張ろうという気持ちはめいっぱいです💖\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  66,
+                  73
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1963531229502083526",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963531984535433233",
+        "text": "この夏はしゃぎ過ぎて落としてしまった体重を早く戻さなきゃ\n体力つけます🪄 \n#いきづらい部",
+        "authorId": "1906578738156064768",
+        "createdAt": "2025-09-04T09:18:00.000Z",
+        "conversationId": "1963531984535433233",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                38,
+                45
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963531984535433233",
+          "createdAt": "Thu Sep 04 09:18:00 +0000 2025",
+          "url": "https://x.com/Yukuri_talk/status/1963531984535433233",
+          "text": "この夏はしゃぎ過ぎて落としてしまった体重を早く戻さなきゃ\n体力つけます🪄 \n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  38,
+                  45
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Yukuri_talk/status/1963531984535433233",
+          "author": {
+            "name": "春宮ゆくり@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887223185805312/YRTG0-G8_normal.png",
+            "userName": "Yukuri_talk"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
