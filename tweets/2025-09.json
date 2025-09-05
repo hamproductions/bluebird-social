@@ -2806,5 +2806,102 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906583647559524353",
+    "group_start_time": "2025-09-05 12:23:00",
+    "group_end_time": "2025-09-05 12:27:00",
+    "tweets": [
+      {
+        "id": "1963940928831246563",
+        "text": "８月が終わって🌈⛱\n\n秋コスメがほぼ完全に出そろった感！！💄✨\n#いきづらい部",
+        "authorId": "1906583647559524353",
+        "createdAt": "2025-09-05T12:23:00.000Z",
+        "conversationId": "1963940928831246563",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                32,
+                39
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963940928831246563",
+          "createdAt": "Fri Sep 05 12:23:00 +0000 2025",
+          "url": "https://x.com/Rollie_twinkle/status/1963940928831246563",
+          "text": "８月が終わって🌈⛱\n\n秋コスメがほぼ完全に出そろった感！！💄✨\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  32,
+                  39
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963940928831246563",
+          "author": {
+            "name": "此花輝夜@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png",
+            "userName": "Rollie_twinkle"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963941935636230593",
+        "text": "アイシャドウのカラーバリエーションがすごくて🌈🌈🌈✨\nめ―っちゃ悩む！！！\n\nこんなの🎵\nもう全部つけたくなっちゃう～💘✨\n#いきづらい部",
+        "authorId": "1906583647559524353",
+        "createdAt": "2025-09-05T12:27:00.000Z",
+        "conversationId": "1963941935636230593",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                62,
+                69
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963941935636230593",
+          "createdAt": "Fri Sep 05 12:27:00 +0000 2025",
+          "url": "https://x.com/Rollie_twinkle/status/1963941935636230593",
+          "text": "アイシャドウのカラーバリエーションがすごくて🌈🌈🌈✨\nめ―っちゃ悩む！！！\n\nこんなの🎵\nもう全部つけたくなっちゃう～💘✨\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  62,
+                  69
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963941935636230593",
+          "author": {
+            "name": "此花輝夜@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png",
+            "userName": "Rollie_twinkle"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]

@@ -2745,5 +2745,100 @@
         ]
       }
     ]
+  },
+  {
+    "author_id": "1906583647559524353",
+    "group_start_time": "2025-09-05 12:23:00",
+    "group_end_time": "2025-09-05 12:27:00",
+    "tweets": [
+      {
+        "id": "1963940928831246563",
+        "text": "August is over 🌈⛱\n\nIt feels like the autumn cosmetics are almost completely out!! 💄✨\n#IkizuliveClub",
+        "authorId": "1906583647559524353",
+        "createdAt": "2025-09-05T12:23:00.000Z",
+        "conversationId": "1963940928831246563",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                32,
+                39
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963940928831246563",
+          "createdAt": "Fri Sep 05 12:23:00 +0000 2025",
+          "url": "https://x.com/Rollie_twinkle/status/1963940928831246563",
+          "text": "August is over 🌈⛱\n\nIt feels like the autumn cosmetics are almost completely out!! 💄✨\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963940928831246563",
+          "author": {
+            "name": "此花輝夜@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png",
+            "userName": "Rollie_twinkle"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963940928831246563",
+            "lang": "en",
+            "text": "August is over 🌈⛱\n\nIt feels like the autumn cosmetics are almost completely out!! 💄✨\n#IkizuliveClub",
+            "createdAt": "2025-09-05T12:30:07.900Z",
+            "updatedAt": "2025-09-05T12:30:07.900Z"
+          }
+        ]
+      },
+      {
+        "id": "1963941935636230593",
+        "text": "The eyeshadow color variations are amazing 🌈🌈🌈✨\nI'm so indecisive!!!\n\nThings like this 🎵\nI want to try them all now~ 💘✨\n#IkizuliveClub",
+        "authorId": "1906583647559524353",
+        "createdAt": "2025-09-05T12:27:00.000Z",
+        "conversationId": "1963941935636230593",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                62,
+                69
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963941935636230593",
+          "createdAt": "Fri Sep 05 12:27:00 +0000 2025",
+          "url": "https://x.com/Rollie_twinkle/status/1963941935636230593",
+          "text": "The eyeshadow color variations are amazing 🌈🌈🌈✨\nI'm so indecisive!!!\n\nThings like this 🎵\nI want to try them all now~ 💘✨\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963941935636230593",
+          "author": {
+            "name": "此花輝夜@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png",
+            "userName": "Rollie_twinkle"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963941935636230593",
+            "lang": "en",
+            "text": "The eyeshadow color variations are amazing 🌈🌈🌈✨\nI'm so indecisive!!!\n\nThings like this 🎵\nI want to try them all now~ 💘✨\n#IkizuliveClub",
+            "createdAt": "2025-09-05T12:30:07.900Z",
+            "updatedAt": "2025-09-05T12:30:07.900Z"
+          }
+        ]
+      }
+    ]
   }
 ]
