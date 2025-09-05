@@ -2749,11 +2749,11 @@
   {
     "author_id": "1906583647559524353",
     "group_start_time": "2025-09-05 12:23:00",
-    "group_end_time": "2025-09-05 12:27:00",
+    "group_end_time": "2025-09-05 12:40:00",
     "tweets": [
       {
         "id": "1963940928831246563",
-        "text": "August is over 🌈⛱\n\nIt feels like the autumn cosmetics are almost completely out!! 💄✨\n#IkizuliveClub",
+        "text": "August is over 🌈⛱\n\nIt feels like the autumn cosmetics have almost completely come out!! 💄✨\n#IkizuliveClub",
         "authorId": "1906583647559524353",
         "createdAt": "2025-09-05T12:23:00.000Z",
         "conversationId": "1963940928831246563",
@@ -2774,7 +2774,7 @@
           "id": "1963940928831246563",
           "createdAt": "Fri Sep 05 12:23:00 +0000 2025",
           "url": "https://x.com/Rollie_twinkle/status/1963940928831246563",
-          "text": "August is over 🌈⛱\n\nIt feels like the autumn cosmetics are almost completely out!! 💄✨\n#IkizuliveClub",
+          "text": "August is over 🌈⛱\n\nIt feels like the autumn cosmetics have almost completely come out!! 💄✨\n#IkizuliveClub",
           "entities": [],
           "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963940928831246563",
           "author": {
@@ -2789,15 +2789,15 @@
           {
             "tweetId": "1963940928831246563",
             "lang": "en",
-            "text": "August is over 🌈⛱\n\nIt feels like the autumn cosmetics are almost completely out!! 💄✨\n#IkizuliveClub",
+            "text": "August is over 🌈⛱\n\nIt feels like the autumn cosmetics have almost completely come out!! 💄✨\n#IkizuliveClub",
             "createdAt": "2025-09-05T12:30:07.900Z",
-            "updatedAt": "2025-09-05T12:30:07.900Z"
+            "updatedAt": "2025-09-05T14:00:13.235Z"
           }
         ]
       },
       {
         "id": "1963941935636230593",
-        "text": "The eyeshadow color variations are amazing 🌈🌈🌈✨\nI'm so indecisive!!!\n\nThings like this 🎵\nI want to try them all now~ 💘✨\n#IkizuliveClub",
+        "text": "The eyeshadow color variations are amazing 🌈🌈🌈✨\nI'm sooooo troubled!!!\n\nLike this 🎵\nI want to try them all already~ 💘✨\n#IkizuliveClub",
         "authorId": "1906583647559524353",
         "createdAt": "2025-09-05T12:27:00.000Z",
         "conversationId": "1963941935636230593",
@@ -2818,7 +2818,7 @@
           "id": "1963941935636230593",
           "createdAt": "Fri Sep 05 12:27:00 +0000 2025",
           "url": "https://x.com/Rollie_twinkle/status/1963941935636230593",
-          "text": "The eyeshadow color variations are amazing 🌈🌈🌈✨\nI'm so indecisive!!!\n\nThings like this 🎵\nI want to try them all now~ 💘✨\n#IkizuliveClub",
+          "text": "The eyeshadow color variations are amazing 🌈🌈🌈✨\nI'm sooooo troubled!!!\n\nLike this 🎵\nI want to try them all already~ 💘✨\n#IkizuliveClub",
           "entities": [],
           "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963941935636230593",
           "author": {
@@ -2833,9 +2833,185 @@
           {
             "tweetId": "1963941935636230593",
             "lang": "en",
-            "text": "The eyeshadow color variations are amazing 🌈🌈🌈✨\nI'm so indecisive!!!\n\nThings like this 🎵\nI want to try them all now~ 💘✨\n#IkizuliveClub",
+            "text": "The eyeshadow color variations are amazing 🌈🌈🌈✨\nI'm sooooo troubled!!!\n\nLike this 🎵\nI want to try them all already~ 💘✨\n#IkizuliveClub",
             "createdAt": "2025-09-05T12:30:07.900Z",
-            "updatedAt": "2025-09-05T12:30:07.900Z"
+            "updatedAt": "2025-09-05T14:00:13.250Z"
+          }
+        ]
+      },
+      {
+        "id": "1963942690900623589",
+        "text": "The trend is a generally nude atmosphere 🌈\nSince transparency is emphasized, it seems to be well-received by men too~ 🎉✨\n\nDeep browns and khakis are also coming in, but\n\nAs expected 💖\n#IkizuliveClub",
+        "authorId": "1906583647559524353",
+        "createdAt": "2025-09-05T12:30:00.000Z",
+        "conversationId": "1963942690900623589",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                70,
+                77
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963942690900623589",
+          "createdAt": "Fri Sep 05 12:30:00 +0000 2025",
+          "url": "https://x.com/Rollie_twinkle/status/1963942690900623589",
+          "text": "The trend is a generally nude atmosphere 🌈\nSince transparency is emphasized, it seems to be well-received by men too~ 🎉✨\n\nDeep browns and khakis are also coming in, but\n\nAs expected 💖\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963942690900623589",
+          "author": {
+            "name": "此花輝夜@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png",
+            "userName": "Rollie_twinkle"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963942690900623589",
+            "lang": "en",
+            "text": "The trend is a generally nude atmosphere 🌈\nSince transparency is emphasized, it seems to be well-received by men too~ 🎉✨\n\nDeep browns and khakis are also coming in, but\n\nAs expected 💖\n#IkizuliveClub",
+            "createdAt": "2025-09-05T14:00:13.214Z",
+            "updatedAt": "2025-09-05T14:00:13.214Z"
+          }
+        ]
+      },
+      {
+        "id": "1963943445925646533",
+        "text": "For me, by far, my favorite is\nNatural and nude\nPink colors~ 🎵🌈\n\nEveryone loves it no matter what, right?\nAfter all, a kiss is cute in pink~ 🌈👙✨\n\n#IkizuliveClub",
+        "authorId": "1906583647559524353",
+        "createdAt": "2025-09-05T12:33:00.000Z",
+        "conversationId": "1963943445925646533",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                73,
+                80
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963943445925646533",
+          "createdAt": "Fri Sep 05 12:33:00 +0000 2025",
+          "url": "https://x.com/Rollie_twinkle/status/1963943445925646533",
+          "text": "For me, by far, my favorite is\nNatural and nude\nPink colors~ 🎵🌈\n\nEveryone loves it no matter what, right?\nAfter all, a kiss is cute in pink~ 🌈👙✨\n\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963943445925646533",
+          "author": {
+            "name": "此花輝夜@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png",
+            "userName": "Rollie_twinkle"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963943445925646533",
+            "lang": "en",
+            "text": "For me, by far, my favorite is\nNatural and nude\nPink colors~ 🎵🌈\n\nEveryone loves it no matter what, right?\nAfter all, a kiss is cute in pink~ 🌈👙✨\n\n#IkizuliveClub",
+            "createdAt": "2025-09-05T14:00:13.214Z",
+            "updatedAt": "2025-09-05T14:00:13.214Z"
+          }
+        ]
+      },
+      {
+        "id": "1963944452210495954",
+        "text": "So, tonight is 🌌✨\nAutumn eye makeup research night! 🌈\n\nFrom Laura~ 🎉\nA one-point lesson for boys who have never worn makeup before 💖\n#IkizuliveClub",
+        "authorId": "1906583647559524353",
+        "createdAt": "2025-09-05T12:37:00.000Z",
+        "conversationId": "1963944452210495954",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                79,
+                86
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963944452210495954",
+          "createdAt": "Fri Sep 05 12:37:00 +0000 2025",
+          "url": "https://x.com/Rollie_twinkle/status/1963944452210495954",
+          "text": "So, tonight is 🌌✨\nAutumn eye makeup research night! 🌈\n\nFrom Laura~ 🎉\nA one-point lesson for boys who have never worn makeup before 💖\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963944452210495954",
+          "author": {
+            "name": "此花輝夜@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png",
+            "userName": "Rollie_twinkle"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963944452210495954",
+            "lang": "en",
+            "text": "So, tonight is 🌌✨\nAutumn eye makeup research night! 🌈\n\nFrom Laura~ 🎉\nA one-point lesson for boys who have never worn makeup before 💖\n#IkizuliveClub",
+            "createdAt": "2025-09-05T14:00:13.214Z",
+            "updatedAt": "2025-09-05T14:00:13.214Z"
+          }
+        ]
+      },
+      {
+        "id": "1963945207315009904",
+        "text": "For boys whose eyebrows tend to connect if left alone~ 🎵\nShave between your eyebrows!\nEspecially the area below the inner corner of the brow is key to making it neat!\nJust doing that makes you look sharper~ 🌈\nYou might fall in love with me 🥰\n#IkizuliveClub",
+        "authorId": "1906583647559524353",
+        "createdAt": "2025-09-05T12:40:00.000Z",
+        "conversationId": "1963945207315009904",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                78,
+                85
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963945207315009904",
+          "createdAt": "Fri Sep 05 12:40:00 +0000 2025",
+          "url": "https://x.com/Rollie_twinkle/status/1963945207315009904",
+          "text": "For boys whose eyebrows tend to connect if left alone~ 🎵\nShave between your eyebrows!\nEspecially the area below the inner corner of the brow is key to making it neat!\nJust doing that makes you look sharper~ 🌈\nYou might fall in love with me 🥰\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Rollie_twinkle/status/1963945207315009904",
+          "author": {
+            "name": "此花輝夜@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921887475561070593/Jf-AlnRm_normal.png",
+            "userName": "Rollie_twinkle"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963945207315009904",
+            "lang": "en",
+            "text": "For boys whose eyebrows tend to connect if left alone~ 🎵\nShave between your eyebrows!\nEspecially the area below the inner corner of the brow is key to making it neat!\nJust doing that makes you look sharper~ 🌈\nYou might fall in love with me 🥰\n#IkizuliveClub",
+            "createdAt": "2025-09-05T14:00:13.214Z",
+            "updatedAt": "2025-09-05T14:00:13.214Z"
           }
         ]
       }
