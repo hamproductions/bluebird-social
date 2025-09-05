@@ -2342,5 +2342,188 @@
         ]
       }
     ]
+  },
+  {
+    "author_id": "1906577177275154432",
+    "group_start_time": "2025-09-05 08:19:00",
+    "group_end_time": "2025-09-05 08:28:00",
+    "tweets": [
+      {
+        "id": "1963879524334178360",
+        "text": "It's been a week since the second semester started!\nI'm kind of relieved that I was able to finish it safely 🐱✨\nIt's still so hot, I don't feel like autumn has arrived at all...\n#IkizuliveClub",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-05T08:19:00.000Z",
+        "conversationId": "1963879524334178360",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                69,
+                76
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963879524334178360",
+          "createdAt": "Fri Sep 05 08:19:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1963879524334178360",
+          "text": "It's been a week since the second semester started!\nI'm kind of relieved that I was able to finish it safely 🐱✨\nIt's still so hot, I don't feel like autumn has arrived at all...\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1963879524334178360",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963879524334178360",
+            "lang": "en",
+            "text": "It's been a week since the second semester started!\nI'm kind of relieved that I was able to finish it safely 🐱✨\nIt's still so hot, I don't feel like autumn has arrived at all...\n#IkizuliveClub",
+            "createdAt": "2025-09-05T08:30:11.158Z",
+            "updatedAt": "2025-09-05T08:30:11.158Z"
+          }
+        ]
+      },
+      {
+        "id": "1963880279262777562",
+        "text": "But anyway,\nWhen I think back on this summer vacation, I can proudly say it was the best summer ever for Noriko!!\nI'm a little happy about that 🐱💖\n#IkizuliveClub",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-05T08:22:00.000Z",
+        "conversationId": "1963880279262777562",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                69,
+                76
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963880279262777562",
+          "createdAt": "Fri Sep 05 08:22:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1963880279262777562",
+          "text": "But anyway,\nWhen I think back on this summer vacation, I can proudly say it was the best summer ever for Noriko!!\nI'm a little happy about that 🐱💖\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1963880279262777562",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963880279262777562",
+            "lang": "en",
+            "text": "But anyway,\nWhen I think back on this summer vacation, I can proudly say it was the best summer ever for Noriko!!\nI'm a little happy about that 🐱💖\n#IkizuliveClub",
+            "createdAt": "2025-09-05T08:30:11.158Z",
+            "updatedAt": "2025-09-05T08:30:11.158Z"
+          }
+        ]
+      },
+      {
+        "id": "1963881034451214360",
+        "text": "Participating in an audition in Tokyo that I had given up on, and my first street live in Osaka 🎤✨\nIt's like a story about someone else... 😽\n#IkizuliveClub",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-05T08:25:00.000Z",
+        "conversationId": "1963881034451214360",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                53,
+                60
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963881034451214360",
+          "createdAt": "Fri Sep 05 08:25:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1963881034451214360",
+          "text": "Participating in an audition in Tokyo that I had given up on, and my first street live in Osaka 🎤✨\nIt's like a story about someone else... 😽\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1963881034451214360",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963881034451214360",
+            "lang": "en",
+            "text": "Participating in an audition in Tokyo that I had given up on, and my first street live in Osaka 🎤✨\nIt's like a story about someone else... 😽\n#IkizuliveClub",
+            "createdAt": "2025-09-05T08:30:11.158Z",
+            "updatedAt": "2025-09-05T08:30:11.158Z"
+          }
+        ]
+      },
+      {
+        "id": "1963881789296152694",
+        "text": "When I went to Tokyo, the place name was different so I didn't realize it, but\nLater, I heard that I had gone quite close to Asakusa...\n#IkizuliveClub",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-05T08:28:00.000Z",
+        "conversationId": "1963881789296152694",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                69,
+                76
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963881789296152694",
+          "createdAt": "Fri Sep 05 08:28:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1963881789296152694",
+          "text": "When I went to Tokyo, the place name was different so I didn't realize it, but\nLater, I heard that I had gone quite close to Asakusa...\n#IkizuliveClub",
+          "entities": [],
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1963881789296152694",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        },
+        "translations": [
+          {
+            "tweetId": "1963881789296152694",
+            "lang": "en",
+            "text": "When I went to Tokyo, the place name was different so I didn't realize it, but\nLater, I heard that I had gone quite close to Asakusa...\n#IkizuliveClub",
+            "createdAt": "2025-09-05T08:30:11.158Z",
+            "updatedAt": "2025-09-05T08:30:11.158Z"
+          }
+        ]
+      }
+    ]
   }
 ]

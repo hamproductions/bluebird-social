@@ -2394,5 +2394,192 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906577177275154432",
+    "group_start_time": "2025-09-05 08:19:00",
+    "group_end_time": "2025-09-05 08:28:00",
+    "tweets": [
+      {
+        "id": "1963879524334178360",
+        "text": "２学期が始まって１週間！\n無事に終えることができてなんだかホッとしています🐱✨\nまだまだ暑くて秋が来たなんていう感じは全然しないけれど…\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-05T08:19:00.000Z",
+        "conversationId": "1963879524334178360",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                69,
+                76
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963879524334178360",
+          "createdAt": "Fri Sep 05 08:19:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1963879524334178360",
+          "text": "２学期が始まって１週間！\n無事に終えることができてなんだかホッとしています🐱✨\nまだまだ暑くて秋が来たなんていう感じは全然しないけれど…\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  69,
+                  76
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1963879524334178360",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963880279262777562",
+        "text": "それにしても\n今年の夏休みは今思い返してみてものりこ史上最高に！！\n頑張った夏になったなって胸を張って言えるのがちょっぴり嬉しいです🐱💖\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-05T08:22:00.000Z",
+        "conversationId": "1963880279262777562",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                69,
+                76
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963880279262777562",
+          "createdAt": "Fri Sep 05 08:22:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1963880279262777562",
+          "text": "それにしても\n今年の夏休みは今思い返してみてものりこ史上最高に！！\n頑張った夏になったなって胸を張って言えるのがちょっぴり嬉しいです🐱💖\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  69,
+                  76
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1963880279262777562",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963881034451214360",
+        "text": "諦めていた東京でのオーディションに大阪での初めての路上ライブ参加🎤✨\nまるで私じゃない人の物語みたい…😽\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-05T08:25:00.000Z",
+        "conversationId": "1963881034451214360",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                53,
+                60
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963881034451214360",
+          "createdAt": "Fri Sep 05 08:25:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1963881034451214360",
+          "text": "諦めていた東京でのオーディションに大阪での初めての路上ライブ参加🎤✨\nまるで私じゃない人の物語みたい…😽\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  53,
+                  60
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1963881034451214360",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1963881789296152694",
+        "text": "東京に行ったときは、地名が違っていたから私は気が付いていなかったんですけれど\nあとから聞いたら浅草のずいぶん近くまで行っていたらしくて…\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-05T08:28:00.000Z",
+        "conversationId": "1963881789296152694",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                69,
+                76
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1963881789296152694",
+          "createdAt": "Fri Sep 05 08:28:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1963881789296152694",
+          "text": "東京に行ったときは、地名が違っていたから私は気が付いていなかったんですけれど\nあとから聞いたら浅草のずいぶん近くまで行っていたらしくて…\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  69,
+                  76
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1963881789296152694",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
