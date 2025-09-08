@@ -3087,7 +3087,7 @@
   {
     "author_id": "1906577177275154432",
     "group_start_time": "2025-09-08 08:42:00",
-    "group_end_time": "2025-09-08 09:00:00",
+    "group_end_time": "2025-09-08 09:06:00",
     "tweets": [
       {
         "id": "1964972475999244453",
@@ -3395,6 +3395,96 @@
             ]
           },
           "twitterUrl": "https://twitter.com/Noricco_U/status/1964977006916825532",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1964977761447182339",
+        "text": "でもそう言ったら奇跡ちゃんは珍しくちょっと照れた風で🥰\nじゃあのりっこはそんなミィをゴリゴリに使い倒してガンガンにのし上がっていったらいいよって…\nかわいい💘\n言い方はすごいけど🐱✨\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-08T09:03:00.000Z",
+        "conversationId": "1964977761447182339",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                92,
+                99
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1964977761447182339",
+          "createdAt": "Mon Sep 08 09:03:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1964977761447182339",
+          "text": "でもそう言ったら奇跡ちゃんは珍しくちょっと照れた風で🥰\nじゃあのりっこはそんなミィをゴリゴリに使い倒してガンガンにのし上がっていったらいいよって…\nかわいい💘\n言い方はすごいけど🐱✨\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  92,
+                  99
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1964977761447182339",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1964978515876749387",
+        "text": "いきづらい部も始めたからアイドルっぽい曲のレパートリーもこれから増やしていきたいです🐱💖\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-08T09:06:00.000Z",
+        "conversationId": "1964978515876749387",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                45,
+                52
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1964978515876749387",
+          "createdAt": "Mon Sep 08 09:06:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1964978515876749387",
+          "text": "いきづらい部も始めたからアイドルっぽい曲のレパートリーもこれから増やしていきたいです🐱💖\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  45,
+                  52
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1964978515876749387",
           "author": {
             "name": "調布のりこ@いきづらい部！",
             "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
