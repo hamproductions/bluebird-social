@@ -3083,5 +3083,327 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906577177275154432",
+    "group_start_time": "2025-09-08 08:42:00",
+    "group_end_time": "2025-09-08 09:00:00",
+    "tweets": [
+      {
+        "id": "1964972475999244453",
+        "text": "週末のテレビで昭和歌謡の特集をやっているのを見かけました🐱💖\n若い人たちにもネットではやっているとか海外で流行ってから逆輸入とか…\n昭和歌謡っていっても本当にいろんな歌があるなってビックリします！！\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-08T08:42:00.000Z",
+        "conversationId": "1964972475999244453",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                100,
+                107
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1964972475999244453",
+          "createdAt": "Mon Sep 08 08:42:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1964972475999244453",
+          "text": "週末のテレビで昭和歌謡の特集をやっているのを見かけました🐱💖\n若い人たちにもネットではやっているとか海外で流行ってから逆輸入とか…\n昭和歌謡っていっても本当にいろんな歌があるなってビックリします！！\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  100,
+                  107
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1964972475999244453",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1964973230835274151",
+        "text": "私の昭和歌謡のイメージはやっぱり🎤✨\n私がまだすごくちっちゃい頃に、おばあちゃんが商店街でやってたスナックでよく聞いたような歌が多くて…\n演歌もあればリンダもあれば聖子ちゃんや明菜ちゃんやみゆきさま🐱💖\nそういえばシティポップ的なのはあんまりなかった…かも？\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-08T08:45:00.000Z",
+        "conversationId": "1964973230835274151",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                130,
+                137
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1964973230835274151",
+          "createdAt": "Mon Sep 08 08:45:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1964973230835274151",
+          "text": "私の昭和歌謡のイメージはやっぱり🎤✨\n私がまだすごくちっちゃい頃に、おばあちゃんが商店街でやってたスナックでよく聞いたような歌が多くて…\n演歌もあればリンダもあれば聖子ちゃんや明菜ちゃんやみゆきさま🐱💖\nそういえばシティポップ的なのはあんまりなかった…かも？\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  130,
+                  137
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1964973230835274151",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1964973986183569437",
+        "text": "ちなみにおばあちゃんの十八番は美空ひばりで、何年か前にお店を引き継いだママのお得意は明菜ちゃんとWinkだけど🎤💄\n本当はユーミンなのはお客様には内緒みたい！\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-08T08:48:00.000Z",
+        "conversationId": "1964973986183569437",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                80,
+                87
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1964973986183569437",
+          "createdAt": "Mon Sep 08 08:48:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1964973986183569437",
+          "text": "ちなみにおばあちゃんの十八番は美空ひばりで、何年か前にお店を引き継いだママのお得意は明菜ちゃんとWinkだけど🎤💄\n本当はユーミンなのはお客様には内緒みたい！\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  80,
+                  87
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1964973986183569437",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1964974740784992495",
+        "text": "私は…\n昔はとなりのトトロの歌だったけど💦\n中学に入ってからはちょっぴり恥ずかしくなっちゃってお店には行かないようになったので、今はとくに得意な歌とかはなくって…\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-08T08:51:00.000Z",
+        "conversationId": "1964974740784992495",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                82,
+                89
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1964974740784992495",
+          "createdAt": "Mon Sep 08 08:51:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1964974740784992495",
+          "text": "私は…\n昔はとなりのトトロの歌だったけど💦\n中学に入ってからはちょっぴり恥ずかしくなっちゃってお店には行かないようになったので、今はとくに得意な歌とかはなくって…\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  82,
+                  89
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1964974740784992495",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1964975495977554349",
+        "text": "でも声優を目指すようになって、歌唱審査もあるということを知ってだいぶ変わりました！🐱✨\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-08T08:54:00.000Z",
+        "conversationId": "1964975495977554349",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                44,
+                51
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1964975495977554349",
+          "createdAt": "Mon Sep 08 08:54:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1964975495977554349",
+          "text": "でも声優を目指すようになって、歌唱審査もあるということを知ってだいぶ変わりました！🐱✨\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  44,
+                  51
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1964975495977554349",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1964976250734207104",
+        "text": "奇跡ちゃんが🍩🎂\n「得意曲を作るなら、曲目も戦略的に選ぶ必要がある、のりりの良さをちゃんとアピールできて他の人とかぶらない目新しさがあって、苦手な要素がじつはなくて…」\nと色々アドバイスしてくれるのを聞いてると🎤✨\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-08T08:57:00.000Z",
+        "conversationId": "1964976250734207104",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                108,
+                115
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1964976250734207104",
+          "createdAt": "Mon Sep 08 08:57:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1964976250734207104",
+          "text": "奇跡ちゃんが🍩🎂\n「得意曲を作るなら、曲目も戦略的に選ぶ必要がある、のりりの良さをちゃんとアピールできて他の人とかぶらない目新しさがあって、苦手な要素がじつはなくて…」\nと色々アドバイスしてくれるのを聞いてると🎤✨\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  108,
+                  115
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1964976250734207104",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1964977006916825532",
+        "text": "うわぁ～すごい！🐱✨\nやっぱり成功する人は考え方が全然違う、鈍くてボンヤリしてる私なんかとはもう本当に比べ物にならないなって感心しちゃいます！！\n#いきづらい部",
+        "authorId": "1906577177275154432",
+        "createdAt": "2025-09-08T09:00:00.000Z",
+        "conversationId": "1964977006916825532",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                73,
+                80
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1964977006916825532",
+          "createdAt": "Mon Sep 08 09:00:00 +0000 2025",
+          "url": "https://x.com/Noricco_U/status/1964977006916825532",
+          "text": "うわぁ～すごい！🐱✨\nやっぱり成功する人は考え方が全然違う、鈍くてボンヤリしてる私なんかとはもう本当に比べ物にならないなって感心しちゃいます！！\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  73,
+                  80
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/Noricco_U/status/1964977006916825532",
+          "author": {
+            "name": "調布のりこ@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886839516098560/ATN_ua0A_normal.png",
+            "userName": "Noricco_U"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
