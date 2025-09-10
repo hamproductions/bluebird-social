@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/bluebird-social/sw.js', { scope: '/bluebird-social/' })})}
