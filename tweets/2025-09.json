@@ -3772,5 +3772,327 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906578029343916032",
+    "group_start_time": "2025-09-09 07:32:00",
+    "group_end_time": "2025-09-09 07:50:00",
+    "tweets": [
+      {
+        "id": "1965317247993626890",
+        "text": "シュークリームの皮を上手に膨らませるのに絶対に必要なものは！！\n霧吹き！！\n\nって言われるけどさぁ～🍭🍫\nでもさー🍩\nミィは霧吹きがあんまり好きじゃないんだよねー🍪🍡\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-09-09T07:32:00.000Z",
+        "conversationId": "1965317247993626890",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                84,
+                91
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965317247993626890",
+          "createdAt": "Tue Sep 09 07:32:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1965317247993626890",
+          "text": "シュークリームの皮を上手に膨らませるのに絶対に必要なものは！！\n霧吹き！！\n\nって言われるけどさぁ～🍭🍫\nでもさー🍩\nミィは霧吹きがあんまり好きじゃないんだよねー🍪🍡\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  84,
+                  91
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1965317247993626890",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965318002959872205",
+        "text": "だって霧吹きって！\n洗うの面倒！！！\n\nミィは作るのは好きだけど洗い物はまぁそんなに好きじゃないさ～🍡🍵\nあはは🍨\nそれはみんなか🦖🧁\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-09-09T07:35:00.000Z",
+        "conversationId": "1965318002959872205",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                68,
+                75
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965318002959872205",
+          "createdAt": "Tue Sep 09 07:35:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1965318002959872205",
+          "text": "だって霧吹きって！\n洗うの面倒！！！\n\nミィは作るのは好きだけど洗い物はまぁそんなに好きじゃないさ～🍡🍵\nあはは🍨\nそれはみんなか🦖🧁\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  68,
+                  75
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1965318002959872205",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965318757741387993",
+        "text": "だからどうしたら霧吹きなしでうまく作れるか🍭🍦\n妄想シミュレーション～🍩🎂\n要は焼く前のシュークリーム生地の表面が乾かないように水分があればいいわけだから！！\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-09-09T07:38:00.000Z",
+        "conversationId": "1965318757741387993",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                80,
+                87
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965318757741387993",
+          "createdAt": "Tue Sep 09 07:38:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1965318757741387993",
+          "text": "だからどうしたら霧吹きなしでうまく作れるか🍭🍦\n妄想シミュレーション～🍩🎂\n要は焼く前のシュークリーム生地の表面が乾かないように水分があればいいわけだから！！\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  80,
+                  87
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1965318757741387993",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965319512699576614",
+        "text": "ハケで水を塗る💧\n濡らしたキッチンペーパーで表面をなでる🖌\n手で水をかける✋\n\nあとは…\n\nクッキー生地で覆う！🍪🍩🎂\nうんやっぱこれ一択だな💘\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-09-09T07:41:00.000Z",
+        "conversationId": "1965319512699576614",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                73,
+                80
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965319512699576614",
+          "createdAt": "Tue Sep 09 07:41:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1965319512699576614",
+          "text": "ハケで水を塗る💧\n濡らしたキッチンペーパーで表面をなでる🖌\n手で水をかける✋\n\nあとは…\n\nクッキー生地で覆う！🍪🍩🎂\nうんやっぱこれ一択だな💘\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  73,
+                  80
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1965319512699576614",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965320267468874215",
+        "text": "フワフワのシュー皮の上にザクザクカリッとなクッキー生地🍪🎂\n中にはディプロマットとホイップのダブルクリームがたーっぷり！！\n\nうわーこれマジで売れるしかないでしょ🍰🍬\n食べ応えアップ、味のバラエティアップ、単価アップしてもお客さんも納得🍨🍧\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-09-09T07:44:00.000Z",
+        "conversationId": "1965320267468874215",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                121,
+                128
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965320267468874215",
+          "createdAt": "Tue Sep 09 07:44:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1965320267468874215",
+          "text": "フワフワのシュー皮の上にザクザクカリッとなクッキー生地🍪🎂\n中にはディプロマットとホイップのダブルクリームがたーっぷり！！\n\nうわーこれマジで売れるしかないでしょ🍰🍬\n食べ応えアップ、味のバラエティアップ、単価アップしてもお客さんも納得🍨🍧\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  121,
+                  128
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1965320267468874215",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965321022543917305",
+        "text": "一石三鳥、どころか四鳥～🦖✨\nミィは霧吹き使わないですむし！！！\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-09-09T07:47:00.000Z",
+        "conversationId": "1965321022543917305",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                33,
+                40
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965321022543917305",
+          "createdAt": "Tue Sep 09 07:47:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1965321022543917305",
+          "text": "一石三鳥、どころか四鳥～🦖✨\nミィは霧吹き使わないですむし！！！\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  33,
+                  40
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1965321022543917305",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965321777610969505",
+        "text": "なんて🍩\n妄想しながら帰る電車の車内はやっぱり\n退屈すぎるんだな…🚋\n\nミィの家って学校から遠いんだよね～！\nそのうちのりりんちに居候申請すっかな🍩🍰\n#いきづらい部",
+        "authorId": "1906578029343916032",
+        "createdAt": "2025-09-09T07:50:00.000Z",
+        "conversationId": "1965321777610969505",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                76,
+                83
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965321777610969505",
+          "createdAt": "Tue Sep 09 07:50:00 +0000 2025",
+          "url": "https://x.com/MiracleGoldSP/status/1965321777610969505",
+          "text": "なんて🍩\n妄想しながら帰る電車の車内はやっぱり\n退屈すぎるんだな…🚋\n\nミィの家って学校から遠いんだよね～！\nそのうちのりりんちに居候申請すっかな🍩🍰\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  76,
+                  83
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/MiracleGoldSP/status/1965321777610969505",
+          "author": {
+            "name": "金澤奇跡@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886492869148672/0sNJKr2c_normal.png",
+            "userName": "MiracleGoldSP"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
