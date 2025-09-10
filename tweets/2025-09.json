@@ -4094,5 +4094,282 @@
         }
       }
     ]
+  },
+  {
+    "author_id": "1906615972401909760",
+    "group_start_time": "2025-09-10 08:12:00",
+    "group_end_time": "2025-09-10 08:27:00",
+    "tweets": [
+      {
+        "id": "1965689702016745697",
+        "text": "学校のスタッフから文化祭の開催申請についての回答が来た💻\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-10T08:12:00.000Z",
+        "conversationId": "1965689702016745697",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                29,
+                36
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965689702016745697",
+          "createdAt": "Wed Sep 10 08:12:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1965689702016745697",
+          "text": "学校のスタッフから文化祭の開催申請についての回答が来た💻\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  29,
+                  36
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1965689702016745697",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965690457322823849",
+        "text": "結局…\n\n事なかれ主義めぇえええええ！！\n滅びろ！！\n\nって…\n\nしまった、滅びちゃダメなんだった💩\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-10T08:15:00.000Z",
+        "conversationId": "1965690457322823849",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                51,
+                58
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965690457322823849",
+          "createdAt": "Wed Sep 10 08:15:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1965690457322823849",
+          "text": "結局…\n\n事なかれ主義めぇえええええ！！\n滅びろ！！\n\nって…\n\nしまった、滅びちゃダメなんだった💩\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  51,
+                  58
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1965690457322823849",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965691211848499575",
+        "text": "「校舎を使用する場合出入りは在校生および関係者に限る\n音出しは日常の範囲内なら可能」\nこんなのなにも検討してないのと同じじゃない💩\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-10T08:18:00.000Z",
+        "conversationId": "1965691211848499575",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                66,
+                73
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965691211848499575",
+          "createdAt": "Wed Sep 10 08:18:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1965691211848499575",
+          "text": "「校舎を使用する場合出入りは在校生および関係者に限る\n音出しは日常の範囲内なら可能」\nこんなのなにも検討してないのと同じじゃない💩\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  66,
+                  73
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1965691211848499575",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965691967079354460",
+        "text": "どうせこんなことだろうと思ってはいたけど…\nでも実際にこんな風に言われるとなんか\n燃えてきたかも🔥\nおためごかしは嫌いなの💻\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-10T08:21:00.000Z",
+        "conversationId": "1965691967079354460",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                63,
+                70
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965691967079354460",
+          "createdAt": "Wed Sep 10 08:21:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1965691967079354460",
+          "text": "どうせこんなことだろうと思ってはいたけど…\nでも実際にこんな風に言われるとなんか\n燃えてきたかも🔥\nおためごかしは嫌いなの💻\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  63,
+                  70
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1965691967079354460",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965692721886323024",
+        "text": "ただ🐌\n正直急すぎるのよね\n２学期に言い出して秋に文化祭はやっぱり無理筋ではあると私も思う💻\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-10T08:24:00.000Z",
+        "conversationId": "1965692721886323024",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                47,
+                54
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965692721886323024",
+          "createdAt": "Wed Sep 10 08:24:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1965692721886323024",
+          "text": "ただ🐌\n正直急すぎるのよね\n２学期に言い出して秋に文化祭はやっぱり無理筋ではあると私も思う💻\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  47,
+                  54
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1965692721886323024",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      },
+      {
+        "id": "1965693476609401233",
+        "text": "この際照準ずらす？\nうーん、でもなんか言いにくいなコレ\n面倒の予感しかしない…\n誰かポルカに伝えてくれないかな？\n#いきづらい部",
+        "authorId": "1906615972401909760",
+        "createdAt": "2025-09-10T08:27:00.000Z",
+        "conversationId": "1965693476609401233",
+        "source": "Twitter for iPhone",
+        "isReply": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "いきづらい部",
+              "indices": [
+                57,
+                64
+              ]
+            }
+          ]
+        },
+        "data": {
+          "id": "1965693476609401233",
+          "createdAt": "Wed Sep 10 08:27:00 +0000 2025",
+          "url": "https://x.com/My_Mai_Eld/status/1965693476609401233",
+          "text": "この際照準ずらす？\nうーん、でもなんか言いにくいなコレ\n面倒の予感しかしない…\n誰かポルカに伝えてくれないかな？\n#いきづらい部",
+          "entities": {
+            "hashtags": [
+              {
+                "text": "いきづらい部",
+                "indices": [
+                  57,
+                  64
+                ]
+              }
+            ]
+          },
+          "twitterUrl": "https://twitter.com/My_Mai_Eld/status/1965693476609401233",
+          "author": {
+            "name": "麻布麻衣@いきづらい部！",
+            "profilePicture": "https://pbs.twimg.com/profile_images/1921886467275841537/vdo1D8GJ_normal.png",
+            "userName": "My_Mai_Eld"
+          },
+          "quoted_tweet": null,
+          "retweeted_tweet": null
+        }
+      }
+    ]
   }
 ]
