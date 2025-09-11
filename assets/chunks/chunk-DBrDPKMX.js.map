@@ -1,1 +1,0 @@
-{"version":3,"file":"chunk-DBrDPKMX.js","sources":["../../../../src/utils/assets.ts"],"sourcesContent":["import { join } from 'path-browserify';\n\nexport const getAssetUrl = (path: string) => {\n  return join(import.meta.env.PUBLIC_ENV__BASE_URL ?? '/', path);\n};\n"],"names":["getAssetUrl","path","join","import"],"mappings":"wCAEO,MAAMA,EAAeC,GACnBC,EAAAA,KAAKC,mBAA6CF,CAAI"}
