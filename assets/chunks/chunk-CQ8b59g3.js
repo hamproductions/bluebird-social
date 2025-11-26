@@ -1,1 +1,0 @@
-import{c as t}from"./chunk-4525HQL2.js";import{c as r}from"./chunk-Dn1ahTxd.js";const[n,s]=t({name:"RenderStrategyContext",hookName:"useRenderStrategyContext",providerName:"<RenderStrategyPropsProvider />"}),p=e=>r()(e,["lazyMount","unmountOnExit"]);export{n as R,p as s,s as u};
