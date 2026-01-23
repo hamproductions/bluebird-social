@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamproductions.github.io/bluebird-social/sitemap.xml
